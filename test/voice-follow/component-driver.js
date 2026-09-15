@@ -280,6 +280,9 @@ async function createDriver({
       }
       if (id.startsWith('.') && file.includes('/banidb/')) return load(localRequire.resolve(id));
       if (id.endsWith('/filter-verse-items')) return load(localRequire.resolve(id));
+      if (id === './renderVoiceFollowView') {
+        return load(path.join(path.dirname(file), 'renderVoiceFollowView.jsx'));
+      }
       return localRequire(id);
     }
     let code = componentSource || fs.readFileSync(file, 'utf8');
