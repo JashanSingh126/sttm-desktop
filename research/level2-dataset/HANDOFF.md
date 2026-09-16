@@ -68,6 +68,22 @@ Rules: tune on machine-labeled data, judge on human-held-out; every number
 carries its denominator; common vs rare Shabads reported separately.
 Old acronyms LWR/FFR/ISR/LBS appear in earlier records and map to CR/FR/WCR/SD.
 
+## New-computer setup (recreate everything)
+- Clone + `git checkout feature/voice-follow` for product code (Node 18,
+  `npm install`, `npm run test:unit`). This branch adds `docs/` (full
+  project history: LEVEL-2-PLAN, EXPERIMENTS, STATUS, DATASET-PLAN, ...),
+  `live-room-darbar-2026-09-13/` (irreplaceable 5.2-min room recording,
+  mono + stereo + frames), and `vf-bench-scripts/` (clip/wav builders).
+- Re-download video audio: `yt-dlp` with URLs in `discovery/*.json` and
+  the `url` fields in `overlay-labels/*.json`.
+- MANUAL COPY (too big for GitHub, no download URL — USB/AirDrive them):
+  - `/tmp/vf-bench/eval-canonical.parquet` (157MB, 573 machine-labeled
+    clips) + `/tmp/vf-bench/kirtan86.wav` (157MB, rebuildable from the
+    parquet with `vf-bench-scripts/build86.py`).
+  - Acoustic model `model.int8.onnx` (176MB) to `/tmp/vf-bench/model/`.
+    Provenance unknown (came from a local path on another machine) — if it
+    is ever retrained or re-uploaded, record the source here.
+
 ## Next steps for the receiving agent
 1. Download Southall/Fremont/Surrey/Ontario videos from `discovery/` links.
 2. Prep an 80-clip confirm-or-correct review kit (slide label pre-filled) for
