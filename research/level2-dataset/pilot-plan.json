@@ -1,0 +1,122 @@
+[
+  {
+    "video_id": "8LDOs2WLAqU",
+    "venue": "southall",
+    "url": "https://www.youtube.com/watch?v=8LDOs2WLAqU",
+    "publisher_title": "SGSS Southall, Park Ave - Evening Livestream",
+    "source_start_s": 12300,
+    "source_end_s": 15900,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/southall-8LDOs2WLAqU.jpg",
+    "created_at": "2026-09-15T08:39:17.388299+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "QPddwNKtQdE",
+    "venue": "southall",
+    "url": "https://www.youtube.com/watch?v=QPddwNKtQdE",
+    "publisher_title": "SGSS Southall, Park Ave - Evening Livestream",
+    "source_start_s": 7200,
+    "source_end_s": 10800,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/southall-QPddwNKtQdE.jpg",
+    "created_at": "2026-09-15T08:39:17.389516+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "X_QsRunq1G0",
+    "venue": "san-jose",
+    "url": "https://www.youtube.com/watch?v=X_QsRunq1G0",
+    "publisher_title": "Sikh Gurdwara Sahib San Jose Live Telecast Kirtan, Katha & Sehaj Paath Sahib Sep 10, 2026",
+    "source_start_s": 1800,
+    "source_end_s": 5400,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/san-jose-X_QsRunq1G0.jpg",
+    "created_at": "2026-09-15T08:39:17.389607+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "YrFIjs00pTw",
+    "venue": "san-jose",
+    "url": "https://www.youtube.com/watch?v=YrFIjs00pTw",
+    "publisher_title": "Sikh Gurdwara Sahib San Jose  Live Tekecast Kirtan, Katha & Sehaj Paath Sahib Sep 07, 2026",
+    "source_start_s": 1800,
+    "source_end_s": 5400,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/san-jose-YrFIjs00pTw.jpg",
+    "created_at": "2026-09-15T08:39:17.389702+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "pd5LePNvIA8",
+    "venue": "ontario",
+    "url": "https://www.youtube.com/watch?v=pd5LePNvIA8",
+    "publisher_title": "Live From Gurudwara Ontario Khalsa Darbar",
+    "source_start_s": 4500,
+    "source_end_s": 8100,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/ontario-pd5LePNvIA8.jpg",
+    "created_at": "2026-09-15T08:39:17.389883+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "jF0tMZBs9FE",
+    "venue": "ontario",
+    "url": "https://www.youtube.com/watch?v=jF0tMZBs9FE",
+    "publisher_title": "Live From Gurudwara Ontario Khalsa Darbar",
+    "source_start_s": 0,
+    "source_end_s": 3600,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/ontario-jF0tMZBs9FE.jpg",
+    "created_at": "2026-09-15T08:39:17.390038+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "TRFTO4-HsGk",
+    "venue": "fremont",
+    "url": "https://www.youtube.com/watch?v=TRFTO4-HsGk",
+    "publisher_title": "Gurdwara Sahib Fremont Morning Diwan 2026-09-11",
+    "source_start_s": 9900,
+    "source_end_s": 13500,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/fremont-TRFTO4-HsGk.jpg",
+    "created_at": "2026-09-15T08:39:17.390145+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "X8EN_dxTxFY",
+    "venue": "fremont",
+    "url": "https://www.youtube.com/watch?v=X8EN_dxTxFY",
+    "publisher_title": "Gurdwara Sahib Fremont Sunday Diwan 2026-08-30",
+    "source_start_s": 600,
+    "source_end_s": 3600,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/fremont-X8EN_dxTxFY.jpg",
+    "created_at": "2026-09-15T08:39:17.390328+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "rkOeC7V1cWI",
+    "venue": "surrey",
+    "url": "https://www.youtube.com/watch?v=rkOeC7V1cWI",
+    "publisher_title": "live stream duikh nivaran sahib surrey",
+    "source_start_s": 4500,
+    "source_end_s": 8100,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/surrey-rkOeC7V1cWI.jpg",
+    "created_at": "2026-09-15T08:39:17.390430+00:00",
+    "expected_shabad_ids": []
+  },
+  {
+    "video_id": "4-bFvp6A89E",
+    "venue": "surrey",
+    "url": "https://www.youtube.com/watch?v=4-bFvp6A89E",
+    "publisher_title": "live stream duikh nivaran sahib surrey",
+    "source_start_s": 1500,
+    "source_end_s": 4200,
+    "selection_basis": "Visual storyboard survey: apparent live kirtan performers, selected before model output; exact content and Shabad identities require audio review.",
+    "survey": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/survey/surrey-4-bFvp6A89E.jpg",
+    "created_at": "2026-09-15T08:39:17.390575+00:00",
+    "expected_shabad_ids": []
+  }
+]

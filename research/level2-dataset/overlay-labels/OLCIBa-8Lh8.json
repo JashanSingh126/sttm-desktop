@@ -1,0 +1,5065 @@
+{
+  "video": {
+    "video_id": "OLCIBa-8Lh8",
+    "venue": "harmandir-sahib",
+    "duration_s": 6436,
+    "url": "https://www.youtube.com/watch?v=OLCIBa-8Lh8",
+    "publisher_title": "Official SGPC LIVE | Gurbani Kirtan | Sachkhand Sri Harmandir Sahib, Sri Amritsar | 14.09.2026",
+    "label_status": "unreviewed",
+    "capture_chain": "official-broadcast-unknown-mix",
+    "selection": "Supplementary projection-visible stratum: 20 hash-ranked recent finite SGPC kirtan broadcasts, 50-150 minutes. Single venue; not interchangeable with room microphone recordings."
+  },
+  "observations": [
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000030.jpg",
+      "requested_source_s": 30,
+      "storyboard_frame_s": 29.93488372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000060.jpg",
+      "requested_source_s": 60,
+      "storyboard_frame_s": 59.86976744186046,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000090.jpg",
+      "requested_source_s": 90,
+      "storyboard_frame_s": 89.80465116279069,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000120.jpg",
+      "requested_source_s": 120,
+      "storyboard_frame_s": 119.73953488372092,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ensheite the Guurs fet wthin pout heart.",
+        "score": 83.9506172839506,
+        "otherShabadScore": 80.51948051948052,
+        "accepted": false,
+        "canonical_translation": "enshrine the guru s feet within your heart",
+        "canonical_records": [
+          {
+            "verseId": 36561,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000150.jpg",
+      "requested_source_s": 150,
+      "storyboard_frame_s": 149.67441860465115,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Let no aee wonder in doubt in the workd",
+        "score": 89.74358974358975,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "let no one wander in doubt in the world",
+        "canonical_records": [
+          {
+            "verseId": 36563,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000180.jpg",
+      "requested_source_s": 180,
+      "storyboard_frame_s": 179.60930232558138,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Wetsut the Caru, no tase can cross ovr. JI5||/osul]",
+        "score": 71.91011235955057,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "without the guru no one can cross over pause",
+        "canonical_records": [
+          {
+            "verseId": 36564,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000210.jpg",
+      "requested_source_s": 210,
+      "storyboard_frame_s": 209.5441860465116,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Medkate an the ireage of the Guru Within your nund,",
+        "score": 88.0,
+        "otherShabadScore": 74.28571428571429,
+        "accepted": true,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000240.jpg",
+      "requested_source_s": 240,
+      "storyboard_frame_s": 239.47906976744184,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Medtabe an the insage of ihe Guru within your mind",
+        "score": 90.0,
+        "otherShabadScore": 76.19047619047619,
+        "accepted": true,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000270.jpg",
+      "requested_source_s": 270,
+      "storyboard_frame_s": 269.41395348837204,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The Garu shouh the Fath to thoee who have wardened aft.",
+        "score": 83.33333333333334,
+        "otherShabadScore": 70.6896551724138,
+        "accepted": false,
+        "canonical_translation": "the guru shows the path to those who have wandered off",
+        "canonical_records": [
+          {
+            "verseId": 36565,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000300.jpg",
+      "requested_source_s": 300,
+      "storyboard_frame_s": 299.3488372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "He obiterates the feor of birth and dutth",
+        "score": 91.56626506024097,
+        "otherShabadScore": 68.18181818181819,
+        "accepted": true,
+        "canonical_translation": "he obliterates the fear of birth and death",
+        "canonical_records": [
+          {
+            "verseId": 36567,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000330.jpg",
+      "requested_source_s": 330,
+      "storyboard_frame_s": 329.28372093023256,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The gloscus grestress of the Perfect Gars h endeus |211",
+        "score": 81.55339805825243,
+        "otherShabadScore": 72.72727272727273,
+        "accepted": false,
+        "canonical_translation": "the glorious greatness of the perfect guru is endless",
+        "canonical_records": [
+          {
+            "verseId": 36568,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000360.jpg",
+      "requested_source_s": 360,
+      "storyboard_frame_s": 359.21860465116276,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "It your rind accept the Wised of the Gunfi Shobad, aid Iis Montra",
+        "score": 80.62015503875969,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "let your mind accept the word of the guru s shabad and his mantra",
+        "canonical_records": [
+          {
+            "verseId": 36560,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000390.jpg",
+      "requested_source_s": 390,
+      "storyboard_frame_s": 389.15348837209297,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Meditote an the inage of the Guru within your mand",
+        "score": 92.0,
+        "otherShabadScore": 76.19047619047619,
+        "accepted": true,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000420.jpg",
+      "requested_source_s": 420,
+      "storyboard_frame_s": 419.0883720930232,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "and the Light shinas farth in the darinens.",
+        "score": 90.47619047619048,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "and the light shines forth in the darkness",
+        "canonical_records": [
+          {
+            "verseId": 36570,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000450.jpg",
+      "requested_source_s": 450,
+      "storyboard_frame_s": 449.0232558139535,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Tough Ihe Gark, kro the One whe cricted you.",
+        "score": 80.45977011494253,
+        "otherShabadScore": 65.71428571428571,
+        "accepted": false,
+        "canonical_translation": "through the guru know the one who created you",
+        "canonical_records": [
+          {
+            "verseId": 36571,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000480.jpg",
+      "requested_source_s": 480,
+      "storyboard_frame_s": 478.9581395348837,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "By the Garu Mercy, the foclsh ated coras ts beleve JP?11",
+        "score": 78.0952380952381,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "by the guru s mercy the foolish mind comes to believe",
+        "canonical_records": [
+          {
+            "verseId": 36572,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000510.jpg",
+      "requested_source_s": 510,
+      "storyboard_frame_s": 508.8930232558139,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Wt your ind accept the Ward of the Guruls Shobad, and His Mortra",
+        "score": 89.0625,
+        "otherShabadScore": 72.22222222222221,
+        "accepted": true,
+        "canonical_translation": "let your mind accept the word of the guru s shabad and his mantra",
+        "canonical_records": [
+          {
+            "verseId": 36560,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000540.jpg",
+      "requested_source_s": 540,
+      "storyboard_frame_s": 538.8279069767441,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Medtote an ther insage of the Garu within your nind",
+        "score": 87.12871287128714,
+        "otherShabadScore": 75.47169811320755,
+        "accepted": false,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000570.jpg",
+      "requested_source_s": 570,
+      "storyboard_frame_s": 568.7627906976744,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The Garu i the Tramcendent Land, Heit and oiwoys sholl be",
+        "score": 81.73913043478261,
+        "otherShabadScore": 66.03773584905662,
+        "accepted": false,
+        "canonical_translation": "the guru is the transcendent lord he is and always shall be",
+        "canonical_records": [
+          {
+            "verseId": 36574,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000600.jpg",
+      "requested_source_s": 600,
+      "storyboard_frame_s": 598.6976744186046,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The Gan Is the Creator, the Guru hos the power io do everytting.",
+        "score": 91.2,
+        "otherShabadScore": 71.30434782608695,
+        "accepted": true,
+        "canonical_translation": "the guru is the creator the guru has the power to do everything",
+        "canonical_records": [
+          {
+            "verseId": 36573,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000630.jpg",
+      "requested_source_s": 630,
+      "storyboard_frame_s": 628.6325581395348,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The Guu la the Trarncendent Lard; Ile 1, and oways wholl be.",
+        "score": 80.70175438596492,
+        "otherShabadScore": 70.58823529411764,
+        "accepted": false,
+        "canonical_translation": "the guru is the transcendent lord he is and always shall be",
+        "canonical_records": [
+          {
+            "verseId": 36574,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000660.jpg",
+      "requested_source_s": 660,
+      "storyboard_frame_s": 658.5674418604651,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Wilhost the Gune, Iberatian i not clnined, O Sblngs of Deviny 14)7||",
+        "score": 80.64516129032258,
+        "otherShabadScore": 66.05504587155964,
+        "accepted": false,
+        "canonical_translation": "without the guru liberation is not obtained o siblings of destiny",
+        "canonical_records": [
+          {
+            "verseId": 36576,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000690.jpg",
+      "requested_source_s": 690,
+      "storyboard_frame_s": 688.5023255813953,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000720.jpg",
+      "requested_source_s": 720,
+      "storyboard_frame_s": 718.4372093023255,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Medtate an thi imape uf the Guru Within your mund",
+        "score": 88.88888888888889,
+        "otherShabadScore": 73.07692307692308,
+        "accepted": true,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000750.jpg",
+      "requested_source_s": 750,
+      "storyboard_frame_s": 748.3720930232557,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Row in himlty torevir before the Gark, the Seprene Lavd God. J|31|",
+        "score": 80.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "bow in humility forever before the guru the supreme lord god",
+        "canonical_records": [
+          {
+            "verseId": 36562,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000780.jpg",
+      "requested_source_s": 780,
+      "storyboard_frame_s": 778.3069767441859,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Medtabe an the insape of the Geru within your mind",
+        "score": 88.0,
+        "otherShabadScore": 78.0952380952381,
+        "accepted": true,
+        "canonical_translation": "meditate on the image of the guru within your mind",
+        "canonical_records": [
+          {
+            "verseId": 36559,
+            "shabadIds": [
+              3233
+            ]
+          }
+        ],
+        "shabadIds": [
+          3233
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000810.jpg",
+      "requested_source_s": 810,
+      "storyboard_frame_s": 808.2418604651162,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000840.jpg",
+      "requested_source_s": 840,
+      "storyboard_frame_s": 838.1767441860464,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kaenat the pout oflens this one pruyer: D Garu Roam Dkaat, tove nel Tabe ane irtb Yeur Sanchoy IHlSaIl",
+        "score": 72.25130890052355,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000870.jpg",
+      "requested_source_s": 870,
+      "storyboard_frame_s": 868.1116279069767,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kemot the poet offen thes ene prayer: 0 Guru Room Doss,sove mal Tatemu into Tour Sanduoryt1HI15911",
+        "score": 76.24309392265194,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000900.jpg",
+      "requested_source_s": 900,
+      "storyboard_frame_s": 898.046511627907,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keeot the port oflens fhl sne prayer: D Garu Rsam Doss, sove ret Tabe aw irto Fear Sanchuoyt 1HISall",
+        "score": 69.14893617021276,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000930.jpg",
+      "requested_source_s": 930,
+      "storyboard_frame_s": 927.9813953488372,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "1 ane overfiowing with uns ond demerte l have ns matis or vttont on of.f obandioned the fenbrotidl Neciac and |",
+        "score": 65.56016597510373,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i am overflowing with sins and demerits i have no merits or virtues at all i abandoned the ambrosial nectar and i drank poison instead",
+        "canonical_records": [
+          {
+            "verseId": 59492,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000960.jpg",
+      "requested_source_s": 960,
+      "storyboard_frame_s": 957.9162790697674,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ian atlsched to Mays, and deluded by doubt 1 hove follen is love with my chidsen and spoute",
+        "score": 87.77777777777777,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i am attached to maya and deluded by doubt i have fallen in love with my children and spouse",
+        "canonical_records": [
+          {
+            "verseId": 59493,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000990.jpg",
+      "requested_source_s": 990,
+      "storyboard_frame_s": 987.8511627906976,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keenat the pout cllen shis one prayer: D Garu Roan Doss, tove Tta! Taon ane wta Yeur Sanchuayt THlpsall",
+        "score": 67.01570680628272,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001020.jpg",
+      "requested_source_s": 1020,
+      "storyboard_frame_s": 1017.7860465116278,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kemat the port offert this one pruyer: O Guru Ruan Duat, tove mef Take meirtn Yeur Sancuony 1HIPSAII",
+        "score": 77.65957446808511,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001050.jpg",
+      "requested_source_s": 1050,
+      "storyboard_frame_s": 1047.720930232558,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thowe heard that tha most acched Pish of oll is the Songot, the Cun/'s Congregaten, Jeiring i, the fear of death i",
+        "score": 78.48101265822784,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i have heard that the most exalted path of all is the sangat the guru s congregation joining it the fear of death is taken away",
+        "canonical_records": [
+          {
+            "verseId": 59494,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001080.jpg",
+      "requested_source_s": 1080,
+      "storyboard_frame_s": 1077.6558139534882,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "I hove heard that the madt anched Pith of cil is the Songot, the Garu's Congregaton, Jening I, the fear of dech k",
+        "score": 81.0126582278481,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i have heard that the most exalted path of all is the sangat the guru s congregation joining it the fear of death is taken away",
+        "canonical_records": [
+          {
+            "verseId": 59494,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001110.jpg",
+      "requested_source_s": 1110,
+      "storyboard_frame_s": 1107.5906976744186,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "I hove heard thet the isaut wxched Posh ef oll is the Sangat, the Guru's Corgregaion Jeining I, the fear of death a",
+        "score": 82.5,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i have heard that the most exalted path of all is the sangat the guru s congregation joining it the fear of death is taken away",
+        "canonical_records": [
+          {
+            "verseId": 59494,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001140.jpg",
+      "requested_source_s": 1140,
+      "storyboard_frame_s": 1137.5255813953488,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "I hove heand that the nad axched Pith af nil is the Songot, the Gurul's Congregaion, Juining if, the leor of death",
+        "score": 77.31092436974791,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i have heard that the most exalted path of all is the sangat the guru s congregation joining it the fear of death is taken away",
+        "canonical_records": [
+          {
+            "verseId": 59494,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001170.jpg",
+      "requested_source_s": 1170,
+      "storyboard_frame_s": 1167.460465116279,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kaaat the port oflert thl ane prayer: O Garu Raam Doak tove nal Tate aa ita Teur Sanchuoryt ThIpall",
+        "score": 69.84126984126983,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001200.jpg",
+      "requested_source_s": 1200,
+      "storyboard_frame_s": 1197.3953488372092,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keerat the post offers thi one prayer.OGaru Raxan Doa, sove rel Tobe se irdb Yeur Sanduay 1HI/S4|l",
+        "score": 77.41935483870968,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001230.jpg",
+      "requested_source_s": 1230,
+      "storyboard_frame_s": 1227.3302325581394,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001260.jpg",
+      "requested_source_s": 1260,
+      "storyboard_frame_s": 1257.2651162790696,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001290.jpg",
+      "requested_source_s": 1290,
+      "storyboard_frame_s": 1287.1999999999998,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001320.jpg",
+      "requested_source_s": 1320,
+      "storyboard_frame_s": 1317.1348837209302,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001350.jpg",
+      "requested_source_s": 1350,
+      "storyboard_frame_s": 1347.0697674418604,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001380.jpg",
+      "requested_source_s": 1380,
+      "storyboard_frame_s": 1377.0046511627907,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kemat the post offert this sne prayer: O Garu Raam Dadt, toni raf Take twirdo Four Sanctuay 1HIPRIl",
+        "score": 74.8663101604278,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001410.jpg",
+      "requested_source_s": 1410,
+      "storyboard_frame_s": 1406.9395348837209,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keeot the port ofler this ane prayer: O Garu Roam Daat, sov mel Tabe into Teur Sancuaryt HlISal)",
+        "score": 79.34782608695652,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001440.jpg",
+      "requested_source_s": 1440,
+      "storyboard_frame_s": 1436.874418604651,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001470.jpg",
+      "requested_source_s": 1470,
+      "storyboard_frame_s": 1466.8093023255813,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "One't lgpt blands with the Light, and one becanen tobally perfect",
+        "score": 88.37209302325581,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001500.jpg",
+      "requested_source_s": 1500,
+      "storyboard_frame_s": 1496.7441860465115,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Oners lght blands with the Light, and one beceenes totally perfect.",
+        "score": 92.3076923076923,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001530.jpg",
+      "requested_source_s": 1530,
+      "storyboard_frame_s": 1526.6790697674417,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The roys of lgtt merge with ther wrt, and waler nierges with watee",
+        "score": 85.27131782945736,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the rays of light merge with the sun and water merges with water",
+        "canonical_records": [
+          {
+            "verseId": 35927,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001560.jpg",
+      "requested_source_s": 1560,
+      "storyboard_frame_s": 1556.6139534883719,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Onet lgit blands with the Ligtt, and one becers tobally perfect.",
+        "score": 88.18897637795276,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001590.jpg",
+      "requested_source_s": 1590,
+      "storyboard_frame_s": 1586.5488372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Isew God, hear Ged, and speck af the One and anly God",
+        "score": 89.32038834951457,
+        "otherShabadScore": 65.97938144329896,
+        "accepted": true,
+        "canonical_translation": "i see god hear god and speak of the one and only god",
+        "canonical_records": [
+          {
+            "verseId": 35929,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001620.jpg",
+      "requested_source_s": 1620,
+      "storyboard_frame_s": 1616.4837209302325,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The soud in the Creaior af the exporne of crection. Withast God, I ksow no oiher at oil",
+        "score": 84.70588235294117,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the soul is the creator of the expanse of creation without god i know no other at all",
+        "canonical_records": [
+          {
+            "verseId": 35930,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001650.jpg",
+      "requested_source_s": 1650,
+      "storyboard_frame_s": 1646.4186046511627,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The royt of lght merge witt the tin, and water renges with water",
+        "score": 88.18897637795276,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "the rays of light merge with the sun and water merges with water",
+        "canonical_records": [
+          {
+            "verseId": 35927,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001680.jpg",
+      "requested_source_s": 1680,
+      "storyboard_frame_s": 1676.353488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Oeeft lght blends with the Light, ond one becsewes tobally perfect",
+        "score": 87.6923076923077,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001710.jpg",
+      "requested_source_s": 1710,
+      "storyboard_frame_s": 1706.288372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ha Hanal is the Creator, and He Himoetf'a the rfpyer. He crected Shhe Crecrion",
+        "score": 78.70967741935485,
+        "otherShabadScore": 65.08875739644971,
+        "accepted": false,
+        "canonical_translation": "he himself is the creator and he himself is the enjoyer he created the creation",
+        "canonical_records": [
+          {
+            "verseId": 35931,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001740.jpg",
+      "requested_source_s": 1740,
+      "storyboard_frame_s": 1736.2232558139533,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Playt. Nonak, they done knaw shik, who drick in the uttle euance af the Lond [H|1?1l",
+        "score": 78.43137254901961,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "prays nanak they alone know this who drink in the subtle essence of the lord",
+        "canonical_records": [
+          {
+            "verseId": 35932,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001770.jpg",
+      "requested_source_s": 1770,
+      "storyboard_frame_s": 1766.1581395348835,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Phays Nanok, they alane know thix, who drink in the suttle ewence af the lond TH|I?1|",
+        "score": 85.8974358974359,
+        "otherShabadScore": 65.3061224489796,
+        "accepted": false,
+        "canonical_translation": "prays nanak they alone know this who drink in the subtle essence of the lord",
+        "canonical_records": [
+          {
+            "verseId": 35932,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001800.jpg",
+      "requested_source_s": 1800,
+      "storyboard_frame_s": 1796.093023255814,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Pays Nanok, they daw know ti, who drick i the uabtle asorice af the Lord 1921L",
+        "score": 81.08108108108108,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "prays nanak they alone know this who drink in the subtle essence of the lord",
+        "canonical_records": [
+          {
+            "verseId": 35932,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001830.jpg",
+      "requested_source_s": 1830,
+      "storyboard_frame_s": 1826.0279069767441,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Oney Sgit blende with the light, and one becsrtes tonally perfect",
+        "score": 88.37209302325581,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001860.jpg",
+      "requested_source_s": 1860,
+      "storyboard_frame_s": 1855.9627906976743,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "One't lgit blends with the Light, and on becaros tohally perfect",
+        "score": 90.625,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001890.jpg",
+      "requested_source_s": 1890,
+      "storyboard_frame_s": 1885.8976744186045,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Oeet Aght blonds with the light, and one becoevs tobally perfect",
+        "score": 89.0625,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001920.jpg",
+      "requested_source_s": 1920,
+      "storyboard_frame_s": 1915.8325581395347,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "He Havat Is the Creator, und He Hirraelf is the Enjayir. He crected te Creation",
+        "score": 84.61538461538461,
+        "otherShabadScore": 68.26347305389223,
+        "accepted": false,
+        "canonical_translation": "he himself is the creator and he himself is the enjoyer he created the creation",
+        "canonical_records": [
+          {
+            "verseId": 35931,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001950.jpg",
+      "requested_source_s": 1950,
+      "storyboard_frame_s": 1945.767441860465,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "H Hamet Is the Credtor, and He IOmself In the Oripyer. He crected She Creotion.",
+        "score": 83.87096774193549,
+        "otherShabadScore": 68.67469879518072,
+        "accepted": false,
+        "canonical_translation": "he himself is the creator and he himself is the enjoyer he created the creation",
+        "canonical_records": [
+          {
+            "verseId": 35931,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001980.jpg",
+      "requested_source_s": 1980,
+      "storyboard_frame_s": 1975.7023255813951,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Prays Nanak, they clank knaw shiy, who drink in the suttle ausence af the lend THIIRII",
+        "score": 80.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "prays nanak they alone know this who drink in the subtle essence of the lord",
+        "canonical_records": [
+          {
+            "verseId": 35932,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002010.jpg",
+      "requested_source_s": 2010,
+      "storyboard_frame_s": 2005.6372093023253,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "One't lgit blends with ther light, ond on beceenos tosally perfect",
+        "score": 87.6923076923077,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002040.jpg",
+      "requested_source_s": 2040,
+      "storyboard_frame_s": 2035.5720930232555,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The roys ef light merge with ther ur, ond water menges with water.",
+        "score": 90.625,
+        "otherShabadScore": 69.76744186046511,
+        "accepted": true,
+        "canonical_translation": "the rays of light merge with the sun and water merges with water",
+        "canonical_records": [
+          {
+            "verseId": 35927,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002070.jpg",
+      "requested_source_s": 2070,
+      "storyboard_frame_s": 2065.506976744186,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "One't Bgit blenchs with the light, and one becos totolly perfect",
+        "score": 89.0625,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "one s light blends with the light and one becomes totally perfect",
+        "canonical_records": [
+          {
+            "verseId": 35928,
+            "shabadIds": [
+              3159
+            ]
+          }
+        ],
+        "shabadIds": [
+          3159
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002100.jpg",
+      "requested_source_s": 2100,
+      "storyboard_frame_s": 2095.441860465116,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Your colars and huset ane ua rureesou; no one can know Your ocdone",
+        "score": 80.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "your colors and hues are so numerous no one can know your actions",
+        "canonical_records": [
+          {
+            "verseId": 41274,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002130.jpg",
+      "requested_source_s": 2130,
+      "storyboard_frame_s": 2125.3767441860464,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The grestest of the gpaot, infate is Your dgnty",
+        "score": 87.5,
+        "otherShabadScore": 65.99999999999999,
+        "accepted": false,
+        "canonical_translation": "the greatest of the great infinite is your dignity",
+        "canonical_records": [
+          {
+            "verseId": 41273,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002160.jpg",
+      "requested_source_s": 2160,
+      "storyboard_frame_s": 2155.3116279069764,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nanok, the slovs of Your siown, proys ba You akone T11|]",
+        "score": 74.74747474747474,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nanak the slave of your slaves prays to you alone",
+        "canonical_records": [
+          {
+            "verseId": 41280,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002190.jpg",
+      "requested_source_s": 2190,
+      "storyboard_frame_s": 2185.246511627907,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoue wha hove medloted en the Nuark, Tha Namueof the Land, and departed ofier having worked by the sasat of",
+        "score": 79.82062780269058,
+        "otherShabadScore": 79.46428571428572,
+        "accepted": false,
+        "canonical_translation": "those who have meditated on the naam the name of the lord and departed after having worked by the sweat of their brow",
+        "canonical_records": [
+          {
+            "verseId": 6030,
+            "shabadIds": [
+              421
+            ]
+          }
+        ],
+        "shabadIds": [
+          421
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002220.jpg",
+      "requested_source_s": 2220,
+      "storyboard_frame_s": 2215.181395348837,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "-Q Nanck, thair foces ane rodant is the Court af the Lord, und mazy ere asved along with them! |!41|",
+        "score": 86.1878453038674,
+        "otherShabadScore": 84.04255319148936,
+        "accepted": false,
+        "canonical_translation": "o nanak their faces are radiant in the court of the lord and many are saved along with them",
+        "canonical_records": [
+          {
+            "verseId": 385,
+            "shabadIds": [
+              39
+            ]
+          }
+        ],
+        "shabadIds": [
+          39
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002250.jpg",
+      "requested_source_s": 2250,
+      "storyboard_frame_s": 2245.116279069767,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002280.jpg",
+      "requested_source_s": 2280,
+      "storyboard_frame_s": 2275.0511627906976,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002310.jpg",
+      "requested_source_s": 2310,
+      "storyboard_frame_s": 2304.9860465116276,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002340.jpg",
+      "requested_source_s": 2340,
+      "storyboard_frame_s": 2334.920930232558,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002370.jpg",
+      "requested_source_s": 2370,
+      "storyboard_frame_s": 2364.855813953488,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002400.jpg",
+      "requested_source_s": 2400,
+      "storyboard_frame_s": 2394.7906976744184,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002430.jpg",
+      "requested_source_s": 2430,
+      "storyboard_frame_s": 2424.725581395349,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002460.jpg",
+      "requested_source_s": 2460,
+      "storyboard_frame_s": 2454.660465116279,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002490.jpg",
+      "requested_source_s": 2490,
+      "storyboard_frame_s": 2484.5953488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002520.jpg",
+      "requested_source_s": 2520,
+      "storyboard_frame_s": 2514.5302325581392,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002550.jpg",
+      "requested_source_s": 2550,
+      "storyboard_frame_s": 2544.4651162790697,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002580.jpg",
+      "requested_source_s": 2580,
+      "storyboard_frame_s": 2574.3999999999996,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002610.jpg",
+      "requested_source_s": 2610,
+      "storyboard_frame_s": 2604.33488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Neosn bless me with the loving devoiseed worthip of the Noon, Kind and Compowsencie Lord 1|1||Pawe||",
+        "score": 80.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "please bless me with the loving devotional worship of the naam o kind and compassionate lord pause",
+        "canonical_records": [
+          {
+            "verseId": 54239,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002640.jpg",
+      "requested_source_s": 2640,
+      "storyboard_frame_s": 2634.2697674418605,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "My Belaved God It the Lowr of iy bresth af lk.",
+        "score": 81.72043010752688,
+        "otherShabadScore": 68.04123711340206,
+        "accepted": false,
+        "canonical_translation": "my beloved god is the lover of my breath of life",
+        "canonical_records": [
+          {
+            "verseId": 54238,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002670.jpg",
+      "requested_source_s": 2670,
+      "storyboard_frame_s": 2664.2046511627905,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Teose bless ine with the loving devotiened worship of the Hbom, O Oed and Corpoulenate Lord J|3 |Ptuse||",
+        "score": 80.61224489795919,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "please bless me with the loving devotional worship of the naam o kind and compassionate lord pause",
+        "canonical_records": [
+          {
+            "verseId": 54239,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002700.jpg",
+      "requested_source_s": 2700,
+      "storyboard_frame_s": 2694.139534883721,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "My Tleloved Ged it the Lowr of my tresth of lk,",
+        "score": 80.85106382978724,
+        "otherShabadScore": 67.32673267326732,
+        "accepted": false,
+        "canonical_translation": "my beloved god is the lover of my breath of life",
+        "canonical_records": [
+          {
+            "verseId": 54238,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002730.jpg",
+      "requested_source_s": 2730,
+      "storyboard_frame_s": 2724.074418604651,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "I reedtute is rernembnasce as Your Feet, O iny Belved, my heart i fled with hape.",
+        "score": 82.27848101265822,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i meditate in remembrance on your feet o my beloved my heart is filled with hope",
+        "canonical_records": [
+          {
+            "verseId": 54240,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002760.jpg",
+      "requested_source_s": 2760,
+      "storyboard_frame_s": 2754.0093023255813,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ioflec my prsyer to the hunble Sante my rind fants for the Thosed Vition of the Lokd'y Danhon 1|311",
+        "score": 79.58115183246073,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i offer my prayer to the humble saints my mind thirsts for the blssed vision of the lord s darshan",
+        "canonical_records": [
+          {
+            "verseId": 54241,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002790.jpg",
+      "requested_source_s": 2790,
+      "storyboard_frame_s": 2783.9441860465113,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "My Bleloved Gad it thee Lowr af my brrsth of ike.",
+        "score": 81.25,
+        "otherShabadScore": 67.96116504854368,
+        "accepted": false,
+        "canonical_translation": "my beloved god is the lover of my breath of life",
+        "canonical_records": [
+          {
+            "verseId": 54238,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002820.jpg",
+      "requested_source_s": 2820,
+      "storyboard_frame_s": 2813.8790697674417,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Seporation is decth, and Uaion with She Land it Mfe. Pleene tles Your hurble sereant with Your Danhon.",
+        "score": 83.5820895522388,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "separation is death and union with the lord is life please bless your humble servant with your darshan",
+        "canonical_records": [
+          {
+            "verseId": 54242,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002850.jpg",
+      "requested_source_s": 2850,
+      "storyboard_frame_s": 2843.8139534883717,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Seperation is dedth, and Uision with the Laed is ifk. Flvone bless Your humble wrvant with Your Danshon.",
+        "score": 85.71428571428572,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "separation is death and union with the lord is life please bless your humble servant with your darshan",
+        "canonical_records": [
+          {
+            "verseId": 54242,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002880.jpg",
+      "requested_source_s": 2880,
+      "storyboard_frame_s": 2873.748837209302,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002910.jpg",
+      "requested_source_s": 2910,
+      "storyboard_frame_s": 2903.6837209302325,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Seperution is death, and Uison with She Laed is Ilk Pirene tlees Yout hurtbls tervant with Your Danshon.",
+        "score": 80.3921568627451,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "separation is death and union with the lord is life please bless your humble servant with your darshan",
+        "canonical_records": [
+          {
+            "verseId": 54242,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002940.jpg",
+      "requested_source_s": 2940,
+      "storyboard_frame_s": 2933.6186046511625,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orry Ged, pleche be Mercifal ond bi Nank wiih the sapport, th and w ofhe Noam 2/3|191]",
+        "score": 76.64670658682635,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o my god please be merciful and bless nanak with the support the life and wealth of the naam",
+        "canonical_records": [
+          {
+            "verseId": 54243,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002970.jpg",
+      "requested_source_s": 2970,
+      "storyboard_frame_s": 2963.553488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Tlecne bleos me with the loving devoiseel werdkp of the Noom, O Kind and Conpanicnale Lond J|3l|Pse||",
+        "score": 77.94871794871796,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "please bless me with the loving devotional worship of the naam o kind and compassionate lord pause",
+        "canonical_records": [
+          {
+            "verseId": 54239,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003000.jpg",
+      "requested_source_s": 3000,
+      "storyboard_frame_s": 2993.488372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "My Belsved Fod Ie the lower af my bresth of ke.",
+        "score": 82.97872340425532,
+        "otherShabadScore": 67.32673267326732,
+        "accepted": false,
+        "canonical_translation": "my beloved god is the lover of my breath of life",
+        "canonical_records": [
+          {
+            "verseId": 54238,
+            "shabadIds": [
+              4573
+            ]
+          }
+        ],
+        "shabadIds": [
+          4573
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003030.jpg",
+      "requested_source_s": 3030,
+      "storyboard_frame_s": 3023.4232558139533,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003060.jpg",
+      "requested_source_s": 3060,
+      "storyboard_frame_s": 3053.3581395348833,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "D land, I soek the Sonchuery of Your feet; Lord of the Liiwrss, Destnayer of pain, plsae biwur Your save with Your",
+        "score": 80.70175438596492,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003090.jpg",
+      "requested_source_s": 3090,
+      "storyboard_frame_s": 3083.2930232558138,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "D tond I sack the Sorctuory of Your feet; Lord of the Lverse, Cesiroyer af poin, pleate hieue Your dove with Your",
+        "score": 78.94736842105263,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003120.jpg",
+      "requested_source_s": 3120,
+      "storyboard_frame_s": 3113.2279069767437,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Be Meroitul, God, ond tiets a with Yoer Glasce of Gaock bake my an and sase tnd \u2022 pill mve up out af this piti",
+        "score": 78.34101382488478,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "be merciful god and bless me with your glance of grace take my arm and save me pull me up out of this pit pause",
+        "canonical_records": [
+          {
+            "verseId": 29465,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003150.jpg",
+      "requested_source_s": 3150,
+      "storyboard_frame_s": 3143.162790697674,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "D Land, i seek tha Sanctuory of Your feet: Lond of the Uhierss, Deirnoyer af pain, plsate hiets Your save with Your",
+        "score": 82.96943231441047,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003180.jpg",
+      "requested_source_s": 3180,
+      "storyboard_frame_s": 3173.0976744186046,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ie Merciful, Got, and hlecs e with Four Glance af Gtace; take my am and sois nha - pull me up cot af thic pirt",
+        "score": 81.4814814814815,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "be merciful god and bless me with your glance of grace take my arm and save me pull me up out of this pit pause",
+        "canonical_records": [
+          {
+            "verseId": 29465,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003210.jpg",
+      "requested_source_s": 3210,
+      "storyboard_frame_s": 3203.0325581395346,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "DLand Isaek the Sonctaory of Your Teet; Lond of the Uiwerss, Desrnayer af poir, pleace hiess Your slave with Your",
+        "score": 80.70175438596492,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003240.jpg",
+      "requested_source_s": 3240,
+      "storyboard_frame_s": 3232.967441860465,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "He is bindled by sesudd doste and onger, bourd by Moys; hs body and clther ore filed with couriels sink",
+        "score": 82.1256038647343,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "he is blinded by sexual desire and anger bound by maya his body and clothes are filled with countless sins",
+        "canonical_records": [
+          {
+            "verseId": 29466,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003270.jpg",
+      "requested_source_s": 3270,
+      "storyboard_frame_s": 3262.902325581395,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Whout God, thei it no ofher gralector, help rae to chond Your Name, Narighty Workr, Shebering Lond 1!Il",
+        "score": 79.59183673469387,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "without god there is no other protector help me to chant your name almighty warrior sheltering lord",
+        "canonical_records": [
+          {
+            "verseId": 29467,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003300.jpg",
+      "requested_source_s": 3300,
+      "storyboard_frame_s": 3292.8372093023254,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Wihout God, thete is no ofher protector, help oe to chont Your Name, Nnighty Warrior, Shebaring Lond I!|I",
+        "score": 87.43718592964824,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "without god there is no other protector help me to chant your name almighty warrior sheltering lord",
+        "canonical_records": [
+          {
+            "verseId": 29467,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003330.jpg",
+      "requested_source_s": 3330,
+      "storyboard_frame_s": 3322.7720930232554,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Dland I soek the Sanctuery of Your feet: Lond of the Uhlwrse, Desrnoyer af pain, please blees Your slave with Your",
+        "score": 86.46288209606988,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003360.jpg",
+      "requested_source_s": 3360,
+      "storyboard_frame_s": 3352.706976744186,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "wing Grace af of beings and cresturs, wen thene who sache the Vedas haw ast found Your",
+        "score": 69.95073891625616,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "redeemer of sinners saving grace of all beings and creatures even those who recite the vedas have not found your limit",
+        "canonical_records": [
+          {
+            "verseId": 29468,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003390.jpg",
+      "requested_source_s": 3390,
+      "storyboard_frame_s": 3382.641860465116,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "God is the acson af vitul and peace, th sausce of youek; Masak sings the Praltes of the Laver af His devatses",
+        "score": 81.10599078341014,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "god is the ocean of virtue and peace the source of jewels nanak sings the praises of the lover of his devotees",
+        "canonical_records": [
+          {
+            "verseId": 29469,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003420.jpg",
+      "requested_source_s": 3420,
+      "storyboard_frame_s": 3412.576744186046,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "God i the aceon ef vatue ad peace, fhe souce of yrwek Nasak sings the Protes of the Laver af His dewatses",
+        "score": 82.2429906542056,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "god is the ocean of virtue and peace the source of jewels nanak sings the praises of the lover of his devotees",
+        "canonical_records": [
+          {
+            "verseId": 29469,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003450.jpg",
+      "requested_source_s": 3450,
+      "storyboard_frame_s": 3442.5116279069766,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Olond I sock the Sonctuory of Your fret Lord of the Ihwarse, Destroyer af pein, pleaue bieuc Your slave with Your",
+        "score": 83.84279475982532,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003480.jpg",
+      "requested_source_s": 3480,
+      "storyboard_frame_s": 3472.4465116279066,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Redvaner of sanan, Sciing Groce af of teings and crechuns, wen thoce whis neche the Vedas hawe sck found Vout",
+        "score": 72.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "redeemer of sinners saving grace of all beings and creatures even those who recite the vedas have not found your limit",
+        "canonical_records": [
+          {
+            "verseId": 29468,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003510.jpg",
+      "requested_source_s": 3510,
+      "storyboard_frame_s": 3502.381395348837,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Andesiner of usnert, Soing Grace of of beings and crestiaes, rwn thone who neche the Vedas hawe not found You",
+        "score": 78.22222222222223,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "redeemer of sinners saving grace of all beings and creatures even those who recite the vedas have not found your limit",
+        "canonical_records": [
+          {
+            "verseId": 29468,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003540.jpg",
+      "requested_source_s": 3540,
+      "storyboard_frame_s": 3532.316279069767,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "God is the aceon af vetue and peace, the sausce af ywek, Nasak singe the Praios of the Laver af Hic desstems",
+        "score": 81.4814814814815,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "god is the ocean of virtue and peace the source of jewels nanak sings the praises of the lover of his devotees",
+        "canonical_records": [
+          {
+            "verseId": 29469,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003570.jpg",
+      "requested_source_s": 3570,
+      "storyboard_frame_s": 3562.2511627906974,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Dland, I soek the Sonchaory of Your Teet: Fond of the thiverss, Destnayer of poin plszue hiwus Your slave with Your",
+        "score": 78.26086956521739,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003600.jpg",
+      "requested_source_s": 3600,
+      "storyboard_frame_s": 3592.186046511628,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Se Mevoifa, God, and bleus yue with Yaor Glasce of Grack, take my ann and taue pos - pull me up oxt af thit pirt",
+        "score": 78.89908256880733,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "be merciful god and bless me with your glance of grace take my arm and save me pull me up out of this pit pause",
+        "canonical_records": [
+          {
+            "verseId": 29465,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003630.jpg",
+      "requested_source_s": 3630,
+      "storyboard_frame_s": 3622.120930232558,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Oland 1 sank the Sanctuory of Yaur Teet; Lord of the Ihtarse, Destroyer of poin, pleaus hiess Your slave with Your",
+        "score": 83.70044052863437,
+        "otherShabadScore": 65.26315789473685,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003660.jpg",
+      "requested_source_s": 3660,
+      "storyboard_frame_s": 3652.0558139534883,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "D tand I sack the Sonchuory of Yoar heet; Londof the Uhtlerss, Dessnoyer af poit, please hieos You slave with Vout",
+        "score": 74.235807860262,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003690.jpg",
+      "requested_source_s": 3690,
+      "storyboard_frame_s": 3681.9906976744182,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003720.jpg",
+      "requested_source_s": 3720,
+      "storyboard_frame_s": 3711.9255813953487,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Dlond, I saek the Sonchwiory of Your fist; Lond of the linwrtk, Destroyer af poin, pleaue bieus Your slave with Yoar",
+        "score": 78.26086956521739,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003750.jpg",
+      "requested_source_s": 3750,
+      "storyboard_frame_s": 3741.8604651162786,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Dland, I soek the Sancluory of Yout Teet: kond of the Lhierss, Destnayer of poir please biees Your slave with Youl",
+        "score": 79.47598253275109,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "o lord i seek the sanctuary of your feet lord of the universe destroyer of pain please bless your slave with your name",
+        "canonical_records": [
+          {
+            "verseId": 29464,
+            "shabadIds": [
+              2608
+            ]
+          }
+        ],
+        "shabadIds": [
+          2608
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003780.jpg",
+      "requested_source_s": 3780,
+      "storyboard_frame_s": 3771.795348837209,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003810.jpg",
+      "requested_source_s": 3810,
+      "storyboard_frame_s": 3801.730232558139,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003840.jpg",
+      "requested_source_s": 3840,
+      "storyboard_frame_s": 3831.6651162790695,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing cornes, and nothing goe 1 pray to the Lord for Mescy. 1I ||Panell",
+        "score": 88.54961832061069,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003870.jpg",
+      "requested_source_s": 3870,
+      "storyboard_frame_s": 3861.6,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing conns, ded nothing goes, 1 proy to the Lord for Mercy II ||Pau|1",
+        "score": 86.82170542635659,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003900.jpg",
+      "requested_source_s": 3900,
+      "storyboard_frame_s": 3891.53488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing carws, and nothing goes; 1 pray to the Laed far Mascy, 1 ||Pau||",
+        "score": 84.12698412698413,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003930.jpg",
+      "requested_source_s": 3930,
+      "storyboard_frame_s": 3921.4697674418603,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Witin the body one incanue, lomps ond oflorings, Within the body ore the fower offeringe 119|l",
+        "score": 86.36363636363636,
+        "otherShabadScore": 67.6056338028169,
+        "accepted": false,
+        "canonical_translation": "within the body are incense lamps and offerings within the body are the flower offerings",
+        "canonical_records": [
+          {
+            "verseId": 29932,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003960.jpg",
+      "requested_source_s": 3960,
+      "storyboard_frame_s": 3951.4046511627903,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing coras, and nothung goe 1 proy bo the Lond ar Meicy- 119||Panie||",
+        "score": 80.95238095238095,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003990.jpg",
+      "requested_source_s": 3990,
+      "storyboard_frame_s": 3981.3395348837207,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing corurs, and nothing goeg 1 proy to the Lard kr Mescy- I ||Pauu||",
+        "score": 82.17054263565892,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004020.jpg",
+      "requested_source_s": 4020,
+      "storyboard_frame_s": 4011.2744186046507,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing cornvc and nothing goes; 1 proy to the Lord far Mercy I ||Passel!",
+        "score": 86.36363636363636,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004050.jpg",
+      "requested_source_s": 4050,
+      "storyboard_frame_s": 4041.209302325581,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing coret, and nating goek 1 gray ba the Laed for Mercy 11 ||Ptaut|]",
+        "score": 80.31496062992126,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004080.jpg",
+      "requested_source_s": 4080,
+      "storyboard_frame_s": 4071.144186046511,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing coriv, and nothing goes; 1 pray to the Lord far Mescy 1I ||Pouw|1",
+        "score": 85.27131782945736,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004110.jpg",
+      "requested_source_s": 4110,
+      "storyboard_frame_s": 4101.079069767442,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing conwt, and nothing goes; 1 pruy to the Lard far Mercy. ||||Pousll",
+        "score": 85.27131782945736,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004140.jpg",
+      "requested_source_s": 4140,
+      "storyboard_frame_s": 4131.013953488372,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The One who pervedes the Uriver abo demfs in she body;, whoeser ueks Him, fircs Hn Shene.",
+        "score": 81.81818181818181,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the one who pervades the universe also dwells in the body whoever seeks him finds him there",
+        "canonical_records": [
+          {
+            "verseId": 29935,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004170.jpg",
+      "requested_source_s": 4170,
+      "storyboard_frame_s": 4160.948837209302,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Prepoo proys, the Landis the sapeerie etannce; te rewols Hanaf theough th Tae Can |21|31|",
+        "score": 67.07317073170731,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "peepaa prays the lord is the supreme essence he reveals himself through the true guru",
+        "canonical_records": [
+          {
+            "verseId": 29936,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004200.jpg",
+      "requested_source_s": 4200,
+      "storyboard_frame_s": 4190.883720930232,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing coeses, and nothing goes 1 proy bo the Lord far Meicy: |I ||Pousel|",
+        "score": 86.36363636363636,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004230.jpg",
+      "requested_source_s": 4230,
+      "storyboard_frame_s": 4220.818604651163,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing ceriun, and nothing goa 1 proy ta the Lord far Mercy. 115|[Paune|f",
+        "score": 83.07692307692307,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004260.jpg",
+      "requested_source_s": 4260,
+      "storyboard_frame_s": 4250.753488372093,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Nothing carus, and nathing goek; 1 proy to the Lord far Meicy. 1 ||Pau|l",
+        "score": 82.8125,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "nothing comes and nothing goes i pray to the lord for mercy pause",
+        "canonical_records": [
+          {
+            "verseId": 29934,
+            "shabadIds": [
+              2641
+            ]
+          }
+        ],
+        "shabadIds": [
+          2641
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004290.jpg",
+      "requested_source_s": 4290,
+      "storyboard_frame_s": 4280.688372093023,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004320.jpg",
+      "requested_source_s": 4320,
+      "storyboard_frame_s": 4310.623255813953,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004350.jpg",
+      "requested_source_s": 4350,
+      "storyboard_frame_s": 4340.558139534884,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ortyay True Gany, the Trus Yog, i free of diwate: |/7 ||Pae|]",
+        "score": 77.35849056603774,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004380.jpg",
+      "requested_source_s": 4380,
+      "storyboard_frame_s": 4370.493023255814,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Manidind is afficted with the druose of ego\u011fu.",
+        "score": 81.72043010752688,
+        "otherShabadScore": 71.26436781609196,
+        "accepted": false,
+        "canonical_translation": "mankind is afflicted with the disease of egotism",
+        "canonical_records": [
+          {
+            "verseId": 48609,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004410.jpg",
+      "requested_source_s": 4410,
+      "storyboard_frame_s": 4400.4279069767435,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The dineaue of uvual desire overwhebra the slaghant.",
+        "score": 79.6116504854369,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the disease of sexual desire overwhelms the elephant",
+        "canonical_records": [
+          {
+            "verseId": 48610,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004440.jpg",
+      "requested_source_s": 4440,
+      "storyboard_frame_s": 4430.362790697674,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Baccune of the disase of the saund of the bel, the deer is fuzed to 2s decth 11311",
+        "score": 88.1578947368421,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "because of the disease of the sound of the bell the deer is lured to its death",
+        "canonical_records": [
+          {
+            "verseId": 48612,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004470.jpg",
+      "requested_source_s": 4470,
+      "storyboard_frame_s": 4460.297674418604,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orly ay True Gany, the True Yogk, Isfree of desau: If || Panell",
+        "score": 76.10619469026548,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004500.jpg",
+      "requested_source_s": 4500,
+      "storyboard_frame_s": 4490.232558139534,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orly any True Gury, the Trus Yog, Is free of dleeaue: II ||Pase|!",
+        "score": 82.45614035087719,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004530.jpg",
+      "requested_source_s": 4530,
+      "storyboard_frame_s": 4520.167441860464,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Becoute of the dteose of loste, the Sth ik caught.",
+        "score": 81.63265306122449,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "because of the disease of taste the fish is caught",
+        "canonical_records": [
+          {
+            "verseId": 48615,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004560.jpg",
+      "requested_source_s": 4560,
+      "storyboard_frame_s": 4550.102325581395,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The whole wold is cought in the doccne of attachment.",
+        "score": 88.67924528301887,
+        "otherShabadScore": 70.2127659574468,
+        "accepted": true,
+        "canonical_translation": "the whole world is caught in the disease of attachment",
+        "canonical_records": [
+          {
+            "verseId": 48617,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004590.jpg",
+      "requested_source_s": 4590,
+      "storyboard_frame_s": 4580.037209302325,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "In the diuaue of the throe quotses, canuption is rultipled. |/2||",
+        "score": 82.35294117647058,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "in the disease of the three qualities corruption is multiplied",
+        "canonical_records": [
+          {
+            "verseId": 48618,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004620.jpg",
+      "requested_source_s": 4620,
+      "storyboard_frame_s": 4619.9503875968985,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orty my True Gany, the Trus Vogi, Is free of daau: |I |Pane|l",
+        "score": 75.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004650.jpg",
+      "requested_source_s": 4650,
+      "storyboard_frame_s": 4649.885271317829,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orlyy Trun Gary, the Trus Yogl, is free of dheate: |I||\u0420a\u043b\u0438|!",
+        "score": 76.63551401869158,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004680.jpg",
+      "requested_source_s": 4680,
+      "storyboard_frame_s": 4679.820155038759,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "In dhuease thry warder in reincirnaion agairi and agsin.",
+        "score": 85.45454545454545,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "in disease they wander in reincarnation again and again",
+        "canonical_records": [
+          {
+            "verseId": 48620,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004710.jpg",
+      "requested_source_s": 4710,
+      "storyboard_frame_s": 4709.755038759689,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Entangled in dioaie, they carnat viay stll, wven lar on intast.",
+        "score": 79.67479674796748,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "entangled in disease they cannot stay still even for an instant",
+        "canonical_records": [
+          {
+            "verseId": 48621,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004740.jpg",
+      "requested_source_s": 4740,
+      "storyboard_frame_s": 4739.68992248062,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004770.jpg",
+      "requested_source_s": 4770,
+      "storyboard_frame_s": 4769.62480620155,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ortymy Trus Gury, the Trun Yogl, h free of Eseau: || ||Po\u043bus|]",
+        "score": 75.92592592592592,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004800.jpg",
+      "requested_source_s": 4800,
+      "storyboard_frame_s": 4799.55968992248,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "When the Suprerne Lond God grants I Mercy",
+        "score": 91.56626506024097,
+        "otherShabadScore": 76.05633802816901,
+        "accepted": true,
+        "canonical_translation": "when the supreme lord god grants his mercy",
+        "canonical_records": [
+          {
+            "verseId": 48623,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004830.jpg",
+      "requested_source_s": 4830,
+      "storyboard_frame_s": 4829.49457364341,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "He grabs hold of the mortdfs arm, and puis hire up ond out of the duss",
+        "score": 87.32394366197182,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "he grabs hold of the mortal s arm and pulls him up and out of the disease",
+        "canonical_records": [
+          {
+            "verseId": 48624,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004860.jpg",
+      "requested_source_s": 4860,
+      "storyboard_frame_s": 4859.429457364341,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004890.jpg",
+      "requested_source_s": 4890,
+      "storyboard_frame_s": 4889.364341085271,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ortyany True Gay, the Truis Yog, hirve of diuote: ||||Pase|!",
+        "score": 71.02803738317758,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004920.jpg",
+      "requested_source_s": 4920,
+      "storyboard_frame_s": 4919.299224806201,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Orly my True Gany, the Trus Yogk Is free of diwsaue. I||Pa\u043bs||",
+        "score": 81.41592920353982,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "only my true guru the true yogi is free of disease pause",
+        "canonical_records": [
+          {
+            "verseId": 48614,
+            "shabadIds": [
+              4082
+            ]
+          }
+        ],
+        "shabadIds": [
+          4082
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004950.jpg",
+      "requested_source_s": 4950,
+      "storyboard_frame_s": 4949.234108527131,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004980.jpg",
+      "requested_source_s": 4980,
+      "storyboard_frame_s": 4979.168992248062,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thote who dod in the Noan, the Nome of the Lord, are wealthy:",
+        "score": 88.88888888888889,
+        "otherShabadScore": 72.0,
+        "accepted": true,
+        "canonical_translation": "those who deal in the naam the name of the lord are wealthy",
+        "canonical_records": [
+          {
+            "verseId": 52291,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005010.jpg",
+      "requested_source_s": 5010,
+      "storyboard_frame_s": 5009.103875968992,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "So becone a parter with them, and wa the weoih of the Nases. Cantempiate ther Word af the Guru's Shabad.",
+        "score": 85.71428571428572,
+        "otherShabadScore": 68.96551724137932,
+        "accepted": false,
+        "canonical_translation": "so become a partner with them and earn the wealth of the naam contemplate the word of the guru s shabad pause",
+        "canonical_records": [
+          {
+            "verseId": 52292,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005040.jpg",
+      "requested_source_s": 5040,
+      "storyboard_frame_s": 5039.038759689922,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "So became e partar with thert, ond sr the wedth of the Maan. Contunglate tha Werd af the Gurle Shabad",
+        "score": 77.88461538461539,
+        "otherShabadScore": 65.24064171122994,
+        "accepted": false,
+        "canonical_translation": "so become a partner with them and earn the wealth of the naam contemplate the word of the guru s shabad pause",
+        "canonical_records": [
+          {
+            "verseId": 52292,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005070.jpg",
+      "requested_source_s": 5070,
+      "storyboard_frame_s": 5068.973643410853,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thote whe deat in the Naant, the Name of the Lord, ore weollhy",
+        "score": 87.39495798319328,
+        "otherShabadScore": 72.3076923076923,
+        "accepted": false,
+        "canonical_translation": "those who deal in the naam the name of the lord are wealthy",
+        "canonical_records": [
+          {
+            "verseId": 52291,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005100.jpg",
+      "requested_source_s": 5100,
+      "storyboard_frame_s": 5098.908527131783,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoue who dedf in the Noan, the Name of the Lord, ar wedithy",
+        "score": 87.17948717948718,
+        "otherShabadScore": 74.13793103448276,
+        "accepted": false,
+        "canonical_translation": "those who deal in the naam the name of the lord are wealthy",
+        "canonical_records": [
+          {
+            "verseId": 52291,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005130.jpg",
+      "requested_source_s": 5130,
+      "storyboard_frame_s": 5128.843410852713,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Abendon yaur deception, und go bryond wngeancg see God wha i chways with you",
+        "score": 86.8421052631579,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "abandon your deception and go beyond vengeance see god who is always with you",
+        "canonical_records": [
+          {
+            "verseId": 52293,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005160.jpg",
+      "requested_source_s": 5160,
+      "storyboard_frame_s": 5158.778294573643,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Deal anly in this true wedith and gother in thos trae wndith, and you shall never wter low. J|41|",
+        "score": 84.15300546448088,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "deal only in this true wealth and gather in this true wealth and you shall never suffer loss",
+        "canonical_records": [
+          {
+            "verseId": 52294,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005190.jpg",
+      "requested_source_s": 5190,
+      "storyboard_frame_s": 5188.7131782945735,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "So became a partar with them, and ser the wwoith of the Naset. Cartamplute the Wold of the Gurule Shabad",
+        "score": 81.51658767772511,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "so become a partner with them and earn the wealth of the naam contemplate the word of the guru s shabad pause",
+        "canonical_records": [
+          {
+            "verseId": 52292,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005220.jpg",
+      "requested_source_s": 5220,
+      "storyboard_frame_s": 5218.6480620155035,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thaue who didl in the Noan, the Nare of the Lard, ore wodihg:",
+        "score": 76.92307692307692,
+        "otherShabadScore": 67.34693877551021,
+        "accepted": false,
+        "canonical_translation": "those who deal in the naam the name of the lord are wealthy",
+        "canonical_records": [
+          {
+            "verseId": 52291,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005250.jpg",
+      "requested_source_s": 5250,
+      "storyboard_frame_s": 5248.582945736433,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Tating and cortunsirg it, it 16 novsr esheudet, God's Sedures are overfiowig",
+        "score": 77.02702702702703,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "eating and consuming it it is never exhausted god s treasures are overflowing",
+        "canonical_records": [
+          {
+            "verseId": 52295,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005280.jpg",
+      "requested_source_s": 5280,
+      "storyboard_frame_s": 5278.517829457364,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Says Nanck, you shall go home to the Court af the Supreme Lord God with honor und wpect. ||2157)|8911",
+        "score": 94.25287356321839,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "says nanak you shall go home to the court of the supreme lord god with honor and respect",
+        "canonical_records": [
+          {
+            "verseId": 52296,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005310.jpg",
+      "requested_source_s": 5310,
+      "storyboard_frame_s": 5308.452713178294,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005340.jpg",
+      "requested_source_s": 5340,
+      "storyboard_frame_s": 5338.387596899224,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005370.jpg",
+      "requested_source_s": 5370,
+      "storyboard_frame_s": 5368.322480620154,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Says Nanck, you whall ge home to the Court of the Supremme Lord God with honor ond spet J2|57]|8941",
+        "score": 92.04545454545455,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "says nanak you shall go home to the court of the supreme lord god with honor and respect",
+        "canonical_records": [
+          {
+            "verseId": 52296,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005400.jpg",
+      "requested_source_s": 5400,
+      "storyboard_frame_s": 5398.257364341085,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "So becane a parter with thert, ond sem the weoth of the Nase. Cestenplate the Word af the Gun's Shobad",
+        "score": 80.38277511961722,
+        "otherShabadScore": 66.33663366336633,
+        "accepted": false,
+        "canonical_translation": "so become a partner with them and earn the wealth of the naam contemplate the word of the guru s shabad pause",
+        "canonical_records": [
+          {
+            "verseId": 52292,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005430.jpg",
+      "requested_source_s": 5430,
+      "storyboard_frame_s": 5428.192248062015,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "So becone a partsr with tham, and som the weokh of the Naun Contssudate the Worsl of the Gars Shobad",
+        "score": 77.88461538461539,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "so become a partner with them and earn the wealth of the naam contemplate the word of the guru s shabad pause",
+        "canonical_records": [
+          {
+            "verseId": 52292,
+            "shabadIds": [
+              4344
+            ]
+          }
+        ],
+        "shabadIds": [
+          4344
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005460.jpg",
+      "requested_source_s": 5460,
+      "storyboard_frame_s": 5458.127131782945,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005490.jpg",
+      "requested_source_s": 5490,
+      "storyboard_frame_s": 5488.062015503876,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoon pesple whs found Gare Rasm Deas were rid of thelr sra",
+        "score": 80.67226890756302,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005520.jpg",
+      "requested_source_s": 5520,
+      "storyboard_frame_s": 5517.996899224806,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Those people who found Gurs faams Doca were rid of thail sina",
+        "score": 87.60330578512396,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005550.jpg",
+      "requested_source_s": 5550,
+      "storyboard_frame_s": 5547.931782945736,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thour people whs found Gura Rasm Deon were rid of thoir sins.",
+        "score": 85.0,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005580.jpg",
+      "requested_source_s": 5580,
+      "storyboard_frame_s": 5577.866666666666,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "When & was the Will of the Tronstendend Laud Himselt, Geru Boure Doat went is the Coy af Ged.",
+        "score": 78.45303867403315,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "when it was the will of the transcendent lord himself guru raam daas went to the city of god",
+        "canonical_records": [
+          {
+            "verseId": 59607,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005610.jpg",
+      "requested_source_s": 5610,
+      "storyboard_frame_s": 5607.801550387597,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thouepeopli who found Gure llaans Doca were rid of thait sins",
+        "score": 82.64462809917356,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005640.jpg",
+      "requested_source_s": 5640,
+      "storyboard_frame_s": 5637.736434108527,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoor pesple who hound Gars Rasm Doon were rid of thair sins",
+        "score": 81.66666666666667,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005670.jpg",
+      "requested_source_s": 5670,
+      "storyboard_frame_s": 5667.671317829457,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The deesanc nas oway, their tns mode them shake and brenble inside.",
+        "score": 84.61538461538461,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the demons ran away their sins made them shake and tremble inside",
+        "canonical_records": [
+          {
+            "verseId": 59610,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005700.jpg",
+      "requested_source_s": 5700,
+      "storyboard_frame_s": 5697.606201550388,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thour people who found Gars fasm Dsch were rid of thait sn",
+        "score": 81.35593220338984,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005730.jpg",
+      "requested_source_s": 5730,
+      "storyboard_frame_s": 5727.541085271318,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thooe peaple whis found Garu Rasm Docn were rid of thair sina.",
+        "score": 82.64462809917356,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005760.jpg",
+      "requested_source_s": 5760,
+      "storyboard_frame_s": 5757.4759689922475,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Mo gons the agalConpy and hrane1o ird Agen,and come Rom: 1125211311111/10/|30112211901|14011",
+        "score": 67.79661016949152,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "he gave the royal canopy and throne to guru arjun and came home",
+        "canonical_records": [
+          {
+            "verseId": 59612,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005790.jpg",
+      "requested_source_s": 5790,
+      "storyboard_frame_s": 5787.4108527131775,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoee people who found Guru faams Decs were nid of theil sins",
+        "score": 89.25619834710744,
+        "otherShabadScore": 0,
+        "accepted": true,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": true
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005820.jpg",
+      "requested_source_s": 5820,
+      "storyboard_frame_s": 5817.345736434108,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thoue pesple who found Gare Rlasm Deon were rid of their sins.",
+        "score": 85.9504132231405,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005850.jpg",
+      "requested_source_s": 5850,
+      "storyboard_frame_s": 5847.280620155038,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ha goue the lloyai Canopy and Throne Is Guru Arjun and came Soee 1125/231/3/21/|10|30|221190||14311",
+        "score": 85.03937007874016,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "he gave the royal canopy and throne to guru arjun and came home",
+        "canonical_records": [
+          {
+            "verseId": 59612,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005880.jpg",
+      "requested_source_s": 5880,
+      "storyboard_frame_s": 5877.215503875968,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Those people who found Gark iases Dloca were rid of thait sins",
+        "score": 83.60655737704919,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005910.jpg",
+      "requested_source_s": 5910,
+      "storyboard_frame_s": 5907.150387596899,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The Lord offered Htin Hik Rayol Throns, and woted the Gar upon k.",
+        "score": 82.8125,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the lord offered him his royal throne and seated the guru upon it",
+        "canonical_records": [
+          {
+            "verseId": 59608,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005940.jpg",
+      "requested_source_s": 5940,
+      "storyboard_frame_s": 5937.085271317829,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thear pesple whs found Girs Rlasen Dech were rid of their sins.",
+        "score": 80.32786885245902,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "those people who found guru raam daas were rid of their sins",
+        "canonical_records": [
+          {
+            "verseId": 59611,
+            "shabadIds": [
+              5474
+            ]
+          }
+        ],
+        "shabadIds": [
+          5474
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005970.jpg",
+      "requested_source_s": 5970,
+      "storyboard_frame_s": 5967.020155038759,
+      "frame_interval_s": 9.97829457364341,
+      "match": null,
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006000.jpg",
+      "requested_source_s": 6000,
+      "storyboard_frame_s": 5996.955038759689,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keeat the poet offers ths ane prayer: D Guru Roor Daat, tove nef Tabene into Four Sancucryf 1H1130|l",
+        "score": 80.43478260869566,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006030.jpg",
+      "requested_source_s": 6030,
+      "storyboard_frame_s": 6026.88992248062,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kaerat the post offers fhit ene prayer: OCaru Roam Coss, sowe mat Tabe audirto Yest Sanchuayt 1HIpsall",
+        "score": 69.47368421052632,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006060.jpg",
+      "requested_source_s": 6060,
+      "storyboard_frame_s": 6056.82480620155,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keerat the post offers fhis ane prayer: O Garu Raam Daak, sowe nal Tabe ahe irda Your Sanduony THIPIIl",
+        "score": 76.43979057591623,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006090.jpg",
+      "requested_source_s": 6090,
+      "storyboard_frame_s": 6086.75968992248,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "I one overfiowing with uinc and demertet hove ns merts or vtses of af:lobandoned the frbrotld Necsat and1",
+        "score": 68.90756302521008,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i am overflowing with sins and demerits i have no merits or virtues at all i abandoned the ambrosial nectar and i drank poison instead",
+        "canonical_records": [
+          {
+            "verseId": 59492,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006120.jpg",
+      "requested_source_s": 6120,
+      "storyboard_frame_s": 6116.69457364341,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Ean atlsched to Mayq, and deluded by drubi, 1 hove follen in love with my chidlen and upoute",
+        "score": 85.55555555555556,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i am attached to maya and deluded by doubt i have fallen in love with my children and spouse",
+        "canonical_records": [
+          {
+            "verseId": 59493,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006150.jpg",
+      "requested_source_s": 6150,
+      "storyboard_frame_s": 6146.629457364341,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Karat the post offers this see prayer: O Garu Roam Daat, tove mef Take ahe into Feat Sancuay 1HIPA|I",
+        "score": 78.72340425531915,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006180.jpg",
+      "requested_source_s": 6180,
+      "storyboard_frame_s": 6176.564341085271,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "thove heand that tha nolt auched Pish of allle she Sangat, the Gunt's Congregten, Jeining R, the fecr of death :",
+        "score": 75.21367521367522,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "i have heard that the most exalted path of all is the sangat the guru s congregation joining it the fear of death is taken away",
+        "canonical_records": [
+          {
+            "verseId": 59494,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006210.jpg",
+      "requested_source_s": 6210,
+      "storyboard_frame_s": 6206.499224806201,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Keeot the port ofens fhk one prayer: D Caru Ruan Doas, sove ntel Tabe ae itn Yeur Sancuony 19IS8]1",
+        "score": 73.62637362637363,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006240.jpg",
+      "requested_source_s": 6240,
+      "storyboard_frame_s": 6236.434108527132,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kaeat the poat offers this dee prayer: D Garu Roar Daat, sowe mel Taie aieirin Yeut Sanchoy1H198|l",
+        "score": 73.91304347826086,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006270.jpg",
+      "requested_source_s": 6270,
+      "storyboard_frame_s": 6266.368992248062,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Kemat the poet offer this one prayer: OGuru Room Daat, xove mel Tabe ne into Your Sancuayf 1H1|58]l",
+        "score": 85.24590163934427,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "keerat the poet offers this one prayer o guru raam daas save me take me into your sanctuary",
+        "canonical_records": [
+          {
+            "verseId": 59495,
+            "shabadIds": [
+              5451
+            ]
+          }
+        ],
+        "shabadIds": [
+          5451
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006300.jpg",
+      "requested_source_s": 6300,
+      "storyboard_frame_s": 6296.303875968992,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Your colort and ikui are to ruremous; no ane can know Your acbonk",
+        "score": 82.17054263565892,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "your colors and hues are so numerous no one can know your actions",
+        "canonical_records": [
+          {
+            "verseId": 41274,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006330.jpg",
+      "requested_source_s": 6330,
+      "storyboard_frame_s": 6326.238759689922,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "The grealrut of the groat, inteite is Yaur dignly.",
+        "score": 81.63265306122449,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "the greatest of the great infinite is your dignity",
+        "canonical_records": [
+          {
+            "verseId": 41273,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006360.jpg",
+      "requested_source_s": 6360,
+      "storyboard_frame_s": 6356.1736434108525,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Teu an ceerfowing with oll power, wherever we lock, thone Tou as",
+        "score": 79.6875,
+        "otherShabadScore": 0,
+        "accepted": false,
+        "canonical_translation": "you are overflowing with all powers wherever we look there you are",
+        "canonical_records": [
+          {
+            "verseId": 41279,
+            "shabadIds": [
+              3571
+            ]
+          }
+        ],
+        "shabadIds": [
+          3571
+        ]
+      },
+      "accepted": false
+    },
+    {
+      "path": "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/006390.jpg",
+      "requested_source_s": 6390,
+      "storyboard_frame_s": 6386.1085271317825,
+      "frame_interval_s": 9.97829457364341,
+      "match": {
+        "ocr_observation": "Thaur wha hove meditobed on the Neark, th Nense df the Laid, and departed oftur having worked by the sweat of",
+        "score": 79.46428571428572,
+        "otherShabadScore": 79.11111111111111,
+        "accepted": false,
+        "canonical_translation": "those who have meditated on the naam the name of the lord and departed after having worked by the sweat of their brow",
+        "canonical_records": [
+          {
+            "verseId": 6030,
+            "shabadIds": [
+              421
+            ]
+          }
+        ],
+        "shabadIds": [
+          421
+        ]
+      },
+      "accepted": false
+    }
+  ],
+  "runs": [
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 150,
+      "last_s": 150,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36563
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000150.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 210,
+      "last_s": 240,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36559
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000210.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000240.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 300,
+      "last_s": 300,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36567
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000300.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 390,
+      "last_s": 420,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36559,
+        36570
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000390.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000420.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 510,
+      "last_s": 510,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36560
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000510.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 600,
+      "last_s": 600,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36573
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000600.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 720,
+      "last_s": 720,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36559
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000720.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 780,
+      "last_s": 780,
+      "shabadIds": [
+        3233
+      ],
+      "verseIds": [
+        36559
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/000780.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 1470,
+      "last_s": 1500,
+      "shabadIds": [
+        3159
+      ],
+      "verseIds": [
+        35928
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001470.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001500.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 1560,
+      "last_s": 1590,
+      "shabadIds": [
+        3159
+      ],
+      "verseIds": [
+        35928,
+        35929
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001560.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001590.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 1650,
+      "last_s": 1650,
+      "shabadIds": [
+        3159
+      ],
+      "verseIds": [
+        35927
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001650.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 1830,
+      "last_s": 1890,
+      "shabadIds": [
+        3159
+      ],
+      "verseIds": [
+        35928
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001830.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001860.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/001890.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 2040,
+      "last_s": 2070,
+      "shabadIds": [
+        3159
+      ],
+      "verseIds": [
+        35927,
+        35928
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002040.jpg",
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/002070.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 3840,
+      "last_s": 3840,
+      "shabadIds": [
+        2641
+      ],
+      "verseIds": [
+        29934
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/003840.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 4440,
+      "last_s": 4440,
+      "shabadIds": [
+        4082
+      ],
+      "verseIds": [
+        48612
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004440.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 4560,
+      "last_s": 4560,
+      "shabadIds": [
+        4082
+      ],
+      "verseIds": [
+        48617
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004560.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 4800,
+      "last_s": 4800,
+      "shabadIds": [
+        4082
+      ],
+      "verseIds": [
+        48623
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004800.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 4980,
+      "last_s": 4980,
+      "shabadIds": [
+        4344
+      ],
+      "verseIds": [
+        52291
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/004980.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 5280,
+      "last_s": 5280,
+      "shabadIds": [
+        4344
+      ],
+      "verseIds": [
+        52296
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005280.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 5370,
+      "last_s": 5370,
+      "shabadIds": [
+        4344
+      ],
+      "verseIds": [
+        52296
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005370.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    },
+    {
+      "video_id": "OLCIBa-8Lh8",
+      "first_s": 5790,
+      "last_s": 5790,
+      "shabadIds": [
+        5474
+      ],
+      "verseIds": [
+        59611
+      ],
+      "observations": [
+        "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-frames/OLCIBa-8Lh8/005790.jpg"
+      ],
+      "label_basis": "projection-only",
+      "audio_review": null
+    }
+  ],
+  "eligibleStableRuns": [],
+  "limitations": [
+    "Independent publisher projection labels; singing synchronization unverified.",
+    "English translation OCR is used only to select canonical records. No OCR text is used as Bani.",
+    "30-second sampled frames do not resolve exact transitions. Unknown frames split runs.",
+    "Stable projected identity may persist during pauses or pramaan."
+  ]
+}

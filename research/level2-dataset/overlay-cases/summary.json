@@ -1,0 +1,15 @@
+{
+  "coldStarts": 80,
+  "uniqueCanonicalShabads": 61,
+  "recordings": 20,
+  "projectionTransitions": 13,
+  "excludedCompositeRuns": 16,
+  "labelStatus": "independent publisher projection only; not independently verified sung Shabads",
+  "sampling": "Selected before replay output; no repeated cold starts of the same recording/Shabad. A maximum of eight per recording.",
+  "limitations": [
+    "One broadcast venue; cannot establish cross-venue Level 2 or room-microphone accuracy.",
+    "Publisher slides may lag, lead, or be incorrect; stable sampling may miss short pramaan.",
+    "Kirtan/recitation content still needs independent review.",
+    "Confidence intervals are conditional on the labeled reference cohort."
+  ]
+}

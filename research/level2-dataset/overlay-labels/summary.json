@@ -1,0 +1,13 @@
+{
+  "videos": 0,
+  "candidateStableRuns": 0,
+  "uniqueCanonicalShabads": 0,
+  "labelStatus": "projection-only, unreviewed audio; not 80 verified Shabad episodes",
+  "corpus_sha256": "d03a69497f989ae6089d0ca6781744e6eb909b52f3478a897bfa993d72f06b87",
+  "thresholds": {
+    "minimumRatio": 88,
+    "minimumMargin": 8,
+    "minimumRunSeconds": 120,
+    "minimumDistinctVerses": 2
+  }
+}

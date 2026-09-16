@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "createdAt": "2026-09-15T08:25:02.227300+00:00",
+  "baselineCommit": "42380eccec6f8c90550155d1427cf98680412fc7",
+  "target": {
+    "minimumShabadEpisodes": 80,
+    "preferredUniqueShabads": 80,
+    "minimumVenues": 5,
+    "minimumIndependentRecordings": 30
+  },
+  "sampling": "Deterministic venue-stratified discovery; deduplicate recording IDs and canonical Shabad IDs; do not select by matcher success. Keep Renton as development/regression and unseen venues as evaluation.",
+  "truth": "Canonical STTM/BaniDB IDs required. Publisher titles, projected slides, and ASR are separate provenance fields; uncertain audio boundaries/pramaans excluded from definitive accuracy denominator. Never label using the evaluated matcher alone.",
+  "metrics": [
+    "correct acquisition by 20/30/60 seconds",
+    "wrong new-Shabad selections",
+    "time retained on the previous Shabad after a verified transition",
+    "line changes within the OLD Shabad after new-Shabad onset (false in-Shabad advances)",
+    "time showing seeking/fallback",
+    "per-venue and per-recording results",
+    "recording-cluster bootstrap intervals"
+  ],
+  "transitionRule": "Keep natural transitions and at least 30 seconds before new-Shabad onset. An old-Shabad verse change after onset is a flagged event; adjudicate canonical overlap and sung content before declaring it wrong.",
+  "noTuning": true,
+  "streamCaptureVsRoomMic": "Report separately; unknown broadcast chain is not assumed to be room microphone.",
+  "stopRules": [
+    "No fabricated labels or replacing the 80-episode goal with 80 unverified URLs.",
+    "Bound acquisition retries and persist failures.",
+    "No near-duplicate episodes counted as independent successes.",
+    "If labels cannot be independently established, publish coverage and provisional diagnostics, not a misleading accuracy rate."
+  ]
+}

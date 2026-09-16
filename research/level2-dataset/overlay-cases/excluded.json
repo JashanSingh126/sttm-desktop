@@ -1,0 +1,508 @@
+[
+  {
+    "video_id": "AhRd4zcvGwA",
+    "first_s": 2744.033333,
+    "last_s": 3129.1,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140040,
+      140048,
+      140057,
+      140064,
+      140072,
+      140080,
+      140087,
+      140096,
+      140104,
+      140112,
+      140121,
+      140129,
+      140134
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000085.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000086.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000087.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000088.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000089.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000090.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000091.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000092.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000093.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000094.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000095.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000096.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/AhRd4zcvGwA/frame-000097.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "LqokzutJRa8",
+    "first_s": 3696.033333,
+    "last_s": 3890.033333,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140070,
+      140080,
+      140090,
+      140098,
+      140108,
+      140118,
+      140128
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000114.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000115.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000116.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000117.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000118.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000119.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LqokzutJRa8/frame-000120.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "Mhy6xcAdKRQ",
+    "first_s": 2836.0,
+    "last_s": 3090.0,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140038,
+      140046,
+      140054,
+      140063,
+      140070,
+      140080,
+      140088,
+      140096,
+      140104
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000088.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000089.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000090.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000091.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000092.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000093.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000094.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000095.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000096.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "duc_Yh0-hwY",
+    "first_s": 4160.033333,
+    "last_s": 4569.533333,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140039,
+      140047,
+      140056,
+      140063,
+      140072,
+      140080,
+      140088,
+      140096,
+      140104,
+      140112,
+      140119,
+      140128,
+      140134
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000129.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000130.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000131.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000132.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000133.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000134.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000135.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000136.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000137.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000138.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000139.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000140.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000141.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/duc_Yh0-hwY/frame-000142.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "S16OOsb9Aco",
+    "first_s": 3072.066667,
+    "last_s": 3492.066667,
+    "shabadIds": [
+      3375
+    ],
+    "verseIds": [
+      39244,
+      39245,
+      39246,
+      39247,
+      39248
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000103.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000104.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000105.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000106.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000107.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000108.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000109.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000110.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000111.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000112.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000113.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000114.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000115.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000116.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000117.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "rspWQFcyIs4",
+    "first_s": 1394.0,
+    "last_s": 1520.2,
+    "shabadIds": [
+      3375
+    ],
+    "verseIds": [
+      39244,
+      39246,
+      39247,
+      39248
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/rspWQFcyIs4/frame-000043.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/rspWQFcyIs4/frame-000044.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/rspWQFcyIs4/frame-000045.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/rspWQFcyIs4/frame-000046.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/rspWQFcyIs4/frame-000047.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "WOr2zKW5BEQ",
+    "first_s": 2912.4,
+    "last_s": 3106.0,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140082,
+      140090,
+      140098,
+      140106,
+      140115,
+      140124,
+      140132
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000091.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000092.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000093.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000094.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000095.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000096.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/WOr2zKW5BEQ/frame-000097.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "CqX9GifIDnk",
+    "first_s": 2010.3,
+    "last_s": 2141.2,
+    "shabadIds": [
+      3375
+    ],
+    "verseIds": [
+      39244,
+      39246,
+      39248
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/CqX9GifIDnk/frame-000063.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/CqX9GifIDnk/frame-000064.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/CqX9GifIDnk/frame-000065.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/CqX9GifIDnk/frame-000066.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/CqX9GifIDnk/frame-000067.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "5Nj1odTqjr8",
+    "first_s": 516.0,
+    "last_s": 868.966667,
+    "shabadIds": [
+      3375
+    ],
+    "verseIds": [
+      39244,
+      39245,
+      39247,
+      39248
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000017.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000018.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000019.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000020.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000021.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000022.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000023.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000024.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000025.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000026.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000027.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000028.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "5Nj1odTqjr8",
+    "first_s": 4000.0,
+    "last_s": 4454.866667,
+    "shabadIds": [
+      3375
+    ],
+    "verseIds": [
+      39244,
+      39245,
+      39246,
+      39247,
+      39248
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000124.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000125.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000126.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000127.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000128.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000129.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000130.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000131.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000132.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000133.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000134.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000135.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000136.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000137.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000138.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "yLEY7N51wyM",
+    "first_s": 4836.066667,
+    "last_s": 5086.9,
+    "shabadIds": [
+      3406
+    ],
+    "verseIds": [
+      39880,
+      39881,
+      39882,
+      39886,
+      39887
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000149.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000150.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000151.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000152.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000153.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000154.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000155.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000156.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000157.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "yLEY7N51wyM",
+    "first_s": 5189.066667,
+    "last_s": 5444.633333,
+    "shabadIds": [
+      3406
+    ],
+    "verseIds": [
+      39884,
+      39885,
+      39887
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000160.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000161.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000162.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000163.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000164.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000165.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000166.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000167.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/yLEY7N51wyM/frame-000168.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "T9zISL2FYrQ",
+    "first_s": 3930.033333,
+    "last_s": 4154.033333,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140054,
+      140062,
+      140069,
+      140078,
+      140086,
+      140094,
+      140102,
+      140112
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000122.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000123.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000124.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000125.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000126.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000127.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000128.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/T9zISL2FYrQ/frame-000129.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "LYp7_CFdFI4",
+    "first_s": 4020.0,
+    "last_s": 4212.0,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140035,
+      140043,
+      140051,
+      140059,
+      140068,
+      140076,
+      140084,
+      140092
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000125.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000126.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000127.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000128.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000129.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000130.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000131.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "mPCFfvSYUR4",
+    "first_s": 2527.5,
+    "last_s": 2882.066667,
+    "shabadIds": [
+      12794
+    ],
+    "verseIds": [
+      140044,
+      140054,
+      140062,
+      140070,
+      140079,
+      140087,
+      140096,
+      140104,
+      140112,
+      140121,
+      140130,
+      140132
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000078.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000079.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000080.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000081.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000082.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000083.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000084.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000085.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000086.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000087.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000088.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000089.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  },
+  {
+    "video_id": "nMYoKwjCUZw",
+    "first_s": 1581.333333,
+    "last_s": 1832.466667,
+    "shabadIds": [
+      2171
+    ],
+    "verseIds": [
+      24905,
+      24908,
+      24909,
+      24910
+    ],
+    "observations": [
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000049.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000050.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000051.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000052.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000053.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000054.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000055.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000056.jpg",
+      "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/nMYoKwjCUZw/frame-000057.jpg"
+    ],
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "reason": "long/composite canonical passage (>40 verses), outside primary short-Shabad reference cohort"
+  }
+]

@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "au0r538sNKo-5848-transition",
+    "video_id": "au0r538sNKo",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=au0r538sNKo",
+    "source_start_s": 5691.7,
+    "source_end_s": 5968.233333,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      5811.7,
+      5848.233333
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "au0r538sNKo",
+        "first_s": 5685.066667,
+        "last_s": 5811.7,
+        "shabadIds": [
+          3994
+        ],
+        "verseIds": [
+          47493,
+          47497,
+          47498
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000174.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000175.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000176.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000177.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000178.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "au0r538sNKo",
+        "first_s": 5848.233333,
+        "last_s": 5979.433333,
+        "shabadIds": [
+          609
+        ],
+        "verseIds": [
+          8462,
+          8469
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000179.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000180.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000181.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000182.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000183.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "au0r538sNKo-5848-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          3994
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "au0r538sNKo-5848-transition-new",
+        "start": 156.5333330000003,
+        "end": 276.5333330000003,
+        "expected_shabad_ids": [
+          609
+        ],
+        "previous_shabad_ids": [
+          3994
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "S16OOsb9Aco-4572-transition",
+    "video_id": "S16OOsb9Aco",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=S16OOsb9Aco",
+    "source_start_s": 4362.066667,
+    "source_end_s": 4692.066667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      4482.066667,
+      4572.066667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 4122.066667,
+        "last_s": 4482.066667,
+        "shabadIds": [
+          2076
+        ],
+        "verseIds": [
+          24019,
+          24021,
+          24022,
+          24023
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000138.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000139.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000140.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000141.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000142.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000143.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000144.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000145.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000146.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000147.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000148.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000149.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000150.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 4572.066667,
+        "last_s": 4752.066667,
+        "shabadIds": [
+          3234
+        ],
+        "verseIds": [
+          36578,
+          36579,
+          36580,
+          36583,
+          36585
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000153.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000154.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000155.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000156.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000157.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000158.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000159.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "S16OOsb9Aco-4572-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          2076
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "S16OOsb9Aco-4572-transition-new",
+        "start": 210.0,
+        "end": 330.0,
+        "expected_shabad_ids": [
+          3234
+        ],
+        "previous_shabad_ids": [
+          2076
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "LYp7_CFdFI4-2044-transition",
+    "video_id": "LYp7_CFdFI4",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=LYp7_CFdFI4",
+    "source_start_s": 1855.8,
+    "source_end_s": 2164.8666670000002,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      1975.8,
+      2044.866667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "LYp7_CFdFI4",
+        "first_s": 1850.0,
+        "last_s": 1975.8,
+        "shabadIds": [
+          1147
+        ],
+        "verseIds": [
+          13880,
+          13881,
+          13882
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000058.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000059.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000060.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000061.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000062.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "LYp7_CFdFI4",
+        "first_s": 2044.866667,
+        "last_s": 2201.0,
+        "shabadIds": [
+          2367
+        ],
+        "verseIds": [
+          27114,
+          27116,
+          27117
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000064.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000065.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000066.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000067.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000068.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/LYp7_CFdFI4/frame-000069.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "LYp7_CFdFI4-2044-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          1147
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "LYp7_CFdFI4-2044-transition-new",
+        "start": 189.06666700000005,
+        "end": 309.0666670000003,
+        "expected_shabad_ids": [
+          2367
+        ],
+        "previous_shabad_ids": [
+          1147
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "S16OOsb9Aco-4122-transition",
+    "video_id": "S16OOsb9Aco",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=S16OOsb9Aco",
+    "source_start_s": 3942.066667,
+    "source_end_s": 4242.066667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      4062.066667,
+      4122.066667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 3582.066667,
+        "last_s": 4062.066667,
+        "shabadIds": [
+          284
+        ],
+        "verseIds": [
+          3929,
+          3930,
+          3931,
+          3933,
+          3934,
+          3936,
+          3937,
+          3939,
+          3940
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000120.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000121.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000122.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000123.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000124.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000125.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000126.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000127.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000128.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000129.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000130.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000131.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000132.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000133.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000134.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000135.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000136.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 4122.066667,
+        "last_s": 4482.066667,
+        "shabadIds": [
+          2076
+        ],
+        "verseIds": [
+          24019,
+          24021,
+          24022,
+          24023
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000138.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000139.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000140.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000141.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000142.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000143.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000144.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000145.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000146.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000147.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000148.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000149.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000150.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "S16OOsb9Aco-4122-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          284
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "S16OOsb9Aco-4122-transition-new",
+        "start": 180.0,
+        "end": 300.0,
+        "expected_shabad_ids": [
+          2076
+        ],
+        "previous_shabad_ids": [
+          284
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "5Nj1odTqjr8-5714-transition",
+    "video_id": "5Nj1odTqjr8",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=5Nj1odTqjr8",
+    "source_start_s": 5526.966667,
+    "source_end_s": 5834.0,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      5646.966667,
+      5714.0
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "5Nj1odTqjr8",
+        "first_s": 5516.0,
+        "last_s": 5646.966667,
+        "shabadIds": [
+          3014
+        ],
+        "verseIds": [
+          34148,
+          34155,
+          34156
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000170.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000171.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000172.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000173.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000174.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "5Nj1odTqjr8",
+        "first_s": 5714.0,
+        "last_s": 5904.233333,
+        "shabadIds": [
+          2310
+        ],
+        "verseIds": [
+          26483,
+          26484,
+          26491,
+          26492
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000176.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000177.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000178.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000179.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000180.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000181.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/5Nj1odTqjr8/frame-000182.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "5Nj1odTqjr8-5714-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          3014
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "5Nj1odTqjr8-5714-transition-new",
+        "start": 187.0333330000003,
+        "end": 307.0333330000003,
+        "expected_shabad_ids": [
+          2310
+        ],
+        "previous_shabad_ids": [
+          3014
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "mPCFfvSYUR4-300-transition",
+    "video_id": "mPCFfvSYUR4",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=mPCFfvSYUR4",
+    "source_start_s": 148.83333299999998,
+    "source_end_s": 420.966667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      268.833333,
+      300.966667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 141.0,
+        "last_s": 268.833333,
+        "shabadIds": [
+          3377
+        ],
+        "verseIds": [
+          39384,
+          39388,
+          39389
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000005.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000006.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000007.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000008.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000009.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 300.966667,
+        "last_s": 629.833333,
+        "shabadIds": [
+          2166
+        ],
+        "verseIds": [
+          24766,
+          24767,
+          24769,
+          24771
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000010.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000011.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000012.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000013.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000014.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000015.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000016.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000017.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000018.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000019.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000020.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "mPCFfvSYUR4-300-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          3377
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "mPCFfvSYUR4-300-transition-new",
+        "start": 152.133334,
+        "end": 272.133334,
+        "expected_shabad_ids": [
+          2166
+        ],
+        "previous_shabad_ids": [
+          3377
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "S16OOsb9Aco-1032-transition",
+    "video_id": "S16OOsb9Aco",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=S16OOsb9Aco",
+    "source_start_s": 852.066667,
+    "source_end_s": 1152.066667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      972.066667,
+      1032.066667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 522.066667,
+        "last_s": 972.066667,
+        "shabadIds": [
+          299
+        ],
+        "verseIds": [
+          4119,
+          4120,
+          4123,
+          4124,
+          4125,
+          4126,
+          4127,
+          4128,
+          4130,
+          7734,
+          28740
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000018.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000019.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000020.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000021.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000022.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000023.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000024.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000025.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000026.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000027.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000028.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000029.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000030.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000031.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000032.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000033.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 1032.066667,
+        "last_s": 1452.066667,
+        "shabadIds": [
+          753
+        ],
+        "verseIds": [
+          10737,
+          10738,
+          10739,
+          10740,
+          10741,
+          10742
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000035.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000036.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000037.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000038.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000039.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000040.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000041.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000042.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000043.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000044.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000045.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000046.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000047.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000048.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000049.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "S16OOsb9Aco-1032-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          299
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "S16OOsb9Aco-1032-transition-new",
+        "start": 180.0,
+        "end": 300.0,
+        "expected_shabad_ids": [
+          753
+        ],
+        "previous_shabad_ids": [
+          299
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "S16OOsb9Aco-5832-transition",
+    "video_id": "S16OOsb9Aco",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=S16OOsb9Aco",
+    "source_start_s": 5622.066667,
+    "source_end_s": 5952.066667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      5742.066667,
+      5832.066667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 5172.066667,
+        "last_s": 5742.066667,
+        "shabadIds": [
+          3590
+        ],
+        "verseIds": [
+          41412,
+          41413,
+          41414,
+          41415,
+          41416,
+          41417,
+          41419,
+          41420
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000173.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000174.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000175.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000176.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000177.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000178.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000179.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000180.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000181.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000182.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000183.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000184.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000185.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000186.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000187.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000188.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000189.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000190.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000191.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000192.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "S16OOsb9Aco",
+        "first_s": 5832.066667,
+        "last_s": 6042.066667,
+        "shabadIds": [
+          5417
+        ],
+        "verseIds": [
+          59313,
+          59314,
+          59315,
+          59317
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000195.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000196.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000197.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000198.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000199.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000200.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000201.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/S16OOsb9Aco/frame-000202.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "S16OOsb9Aco-5832-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          3590
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "S16OOsb9Aco-5832-transition-new",
+        "start": 210.0,
+        "end": 330.0,
+        "expected_shabad_ids": [
+          5417
+        ],
+        "previous_shabad_ids": [
+          3590
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "mPCFfvSYUR4-1152-transition",
+    "video_id": "mPCFfvSYUR4",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=mPCFfvSYUR4",
+    "source_start_s": 965.833333,
+    "source_end_s": 1272.033333,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      1085.833333,
+      1152.033333
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 953.866667,
+        "last_s": 1085.833333,
+        "shabadIds": [
+          5441
+        ],
+        "verseIds": [
+          59447,
+          59448,
+          59449
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000030.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000031.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000032.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000033.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000034.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 1152.033333,
+        "last_s": 1411.033333,
+        "shabadIds": [
+          3951
+        ],
+        "verseIds": [
+          47146,
+          47147
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000036.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000037.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000038.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000039.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000040.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000041.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000042.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000043.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000044.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "mPCFfvSYUR4-1152-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          5441
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "mPCFfvSYUR4-1152-transition-new",
+        "start": 186.20000000000005,
+        "end": 306.20000000000005,
+        "expected_shabad_ids": [
+          3951
+        ],
+        "previous_shabad_ids": [
+          5441
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "mPCFfvSYUR4-694-transition",
+    "video_id": "mPCFfvSYUR4",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=mPCFfvSYUR4",
+    "source_start_s": 509.83333300000004,
+    "source_end_s": 814.766667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      629.833333,
+      694.766667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 300.966667,
+        "last_s": 629.833333,
+        "shabadIds": [
+          2166
+        ],
+        "verseIds": [
+          24766,
+          24767,
+          24769,
+          24771
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000010.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000011.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000012.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000013.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000014.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000015.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000016.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000017.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000018.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000019.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000020.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "mPCFfvSYUR4",
+        "first_s": 694.766667,
+        "last_s": 858.033333,
+        "shabadIds": [
+          5441
+        ],
+        "verseIds": [
+          59446,
+          59447,
+          59449
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000022.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000023.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000024.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000025.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000026.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/mPCFfvSYUR4/frame-000027.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "mPCFfvSYUR4-694-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          2166
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "mPCFfvSYUR4-694-transition-new",
+        "start": 184.93333399999995,
+        "end": 304.93333399999995,
+        "expected_shabad_ids": [
+          5441
+        ],
+        "previous_shabad_ids": [
+          2166
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "au0r538sNKo-6245-transition",
+    "video_id": "au0r538sNKo",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=au0r538sNKo",
+    "source_start_s": 6060.233333,
+    "source_end_s": 6365.666667,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      6180.233333,
+      6245.666667
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "au0r538sNKo",
+        "first_s": 6015.733333,
+        "last_s": 6180.233333,
+        "shabadIds": [
+          609
+        ],
+        "verseIds": [
+          8466,
+          8468,
+          8469,
+          8470
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000184.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000185.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000186.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000187.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000188.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000189.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "au0r538sNKo",
+        "first_s": 6245.666667,
+        "last_s": 6463.733333,
+        "shabadIds": [
+          1345
+        ],
+        "verseIds": [
+          15311,
+          15312,
+          15313,
+          15315,
+          15316,
+          15319
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000191.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000192.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000193.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000194.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000195.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000196.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000197.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/au0r538sNKo/frame-000198.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "au0r538sNKo-6245-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          609
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "au0r538sNKo-6245-transition-new",
+        "start": 185.4333340000003,
+        "end": 305.4333340000003,
+        "expected_shabad_ids": [
+          1345
+        ],
+        "previous_shabad_ids": [
+          609
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "Mhy6xcAdKRQ-1610-transition",
+    "video_id": "Mhy6xcAdKRQ",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=Mhy6xcAdKRQ",
+    "source_start_s": 1423.966667,
+    "source_end_s": 1730.0,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      1543.966667,
+      1610.0
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "Mhy6xcAdKRQ",
+        "first_s": 1416.966667,
+        "last_s": 1543.966667,
+        "shabadIds": [
+          299
+        ],
+        "verseIds": [
+          4119,
+          4121,
+          4127,
+          4130
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000044.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000045.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000046.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000047.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000048.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "Mhy6xcAdKRQ",
+        "first_s": 1610.0,
+        "last_s": 1738.0,
+        "shabadIds": [
+          4148
+        ],
+        "verseIds": [
+          49840,
+          49841,
+          49842,
+          49848
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000050.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000051.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000052.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000053.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/Mhy6xcAdKRQ/frame-000054.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "Mhy6xcAdKRQ-1610-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          299
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "Mhy6xcAdKRQ-1610-transition-new",
+        "start": 186.03333300000008,
+        "end": 306.0333330000001,
+        "expected_shabad_ids": [
+          4148
+        ],
+        "previous_shabad_ids": [
+          299
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  },
+  {
+    "id": "guDwBxnCTnI-1010-transition",
+    "video_id": "guDwBxnCTnI",
+    "venue": "harmandir-sahib",
+    "source_url": "https://www.youtube.com/watch?v=guDwBxnCTnI",
+    "source_start_s": 828.466667,
+    "source_end_s": 1130.0333329999999,
+    "kind": "natural-projection-transition",
+    "label_basis": "projection-only",
+    "audio_review": null,
+    "projection_onset_bracket_s": [
+      948.466667,
+      1010.033333
+    ],
+    "projection_evidence": [
+      {
+        "video_id": "guDwBxnCTnI",
+        "first_s": 459.7,
+        "last_s": 948.466667,
+        "shabadIds": [
+          299
+        ],
+        "verseIds": [
+          4119,
+          4120,
+          4121,
+          4123,
+          4124,
+          4126,
+          4127,
+          4129,
+          4130,
+          7734,
+          28740
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000015.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000016.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000017.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000018.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000019.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000020.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000021.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000022.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000023.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000024.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000025.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000026.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000027.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000028.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000029.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000030.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      },
+      {
+        "video_id": "guDwBxnCTnI",
+        "first_s": 1010.033333,
+        "last_s": 1172.666667,
+        "shabadIds": [
+          2380
+        ],
+        "verseIds": [
+          27258,
+          27261,
+          27265,
+          27339
+        ],
+        "observations": [
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000032.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000033.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000034.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000035.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000036.jpg",
+          "/Users/jashansc/Documents/ChatGPT/VF/data/level2-scale-v1/overlay-hd-frames/guDwBxnCTnI/frame-000037.jpg"
+        ],
+        "label_basis": "projection-only",
+        "audio_review": null
+      }
+    ],
+    "regions": [
+      {
+        "id": "guDwBxnCTnI-1010-transition-old",
+        "start": 0,
+        "end": 120.0,
+        "expected_shabad_ids": [
+          299
+        ],
+        "kind": "cold-start",
+        "label_basis": "projection-only"
+      },
+      {
+        "id": "guDwBxnCTnI-1010-transition-new",
+        "start": 181.56666599999994,
+        "end": 301.5666659999998,
+        "expected_shabad_ids": [
+          2380
+        ],
+        "previous_shabad_ids": [
+          299
+        ],
+        "kind": "natural-transition",
+        "label_basis": "projection-only"
+      }
+    ]
+  }
+]

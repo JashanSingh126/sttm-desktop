@@ -1,0 +1,21 @@
+{
+  "video_id": "h37nNWBwZxk",
+  "regions": [
+    {
+      "id": "renton-v3-05",
+      "start": 0,
+      "end": 1167,
+      "expected_shabad_ids": [
+        650
+      ],
+      "kind": "cold-start",
+      "label_basis": "user-verified-broad"
+    }
+  ],
+  "label_provenance": "User supplied broad timestamp cuts, canonical identities previously cross-checked against STTM/BaniDB. Main-Shabad agreement only; pramaan and within-cut exact boundaries remain unreviewed.",
+  "excluded": "Aarti first cut requires multi-passage labels; gaps excluded.",
+  "limitations": [
+    "Do not interpret all different selected IDs inside these cuts as wrong; genuine pramaan may occur.",
+    "Cut starts are not verified identifying-evidence onsets."
+  ]
+}

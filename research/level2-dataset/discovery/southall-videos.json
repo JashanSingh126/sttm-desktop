@@ -1,0 +1,105 @@
+{
+  "id": "UCX6GRph5cHvjuwGK85cxMyA",
+  "channel": "Sgss Southall LIVE",
+  "channel_id": "UCX6GRph5cHvjuwGK85cxMyA",
+  "title": "Sgss Southall LIVE - Videos",
+  "availability": "public",
+  "channel_follower_count": 4590,
+  "description": "This is the official YouTube channel of Sri Guru Singh Sabha Southall, one of the largest Gurdwaras in the UK. Here, we livestream daily divaans and special events directly from the Gurdwara, allowing the global Sangat to stay spiritually connected no matter where they are.\n\n\ud83d\udcff Tune in live for Nitnem, Kirtan, Katha, and Gurpurab celebrations\n\ud83d\udd4a\ufe0f Experience the peace and power of Gurbani from your home\n\ud83c\udf0d Serving the Sangat around the world, with love and devotion\n\nSubscribe and click the bell icon \ud83d\udd14 so you never miss a live divaan.\n",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://yt3.googleusercontent.com/bgHtbC4oPK_--EFmjtzibrhZr7SwbRbzfNbD6oDqlRb-HgDOKoguQBVs5_0mIKNDdZIXU33LOA=s900-c-k-c0x00ffffff-no-rj",
+      "height": 900,
+      "width": 900,
+      "id": "0",
+      "resolution": "900x900"
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/bgHtbC4oPK_--EFmjtzibrhZr7SwbRbzfNbD6oDqlRb-HgDOKoguQBVs5_0mIKNDdZIXU33LOA=s0",
+      "id": "avatar_uncropped",
+      "preference": 1
+    }
+  ],
+  "uploader_id": "@SgssSouthall_live",
+  "uploader_url": "https://www.youtube.com/@SgssSouthall_live",
+  "modified_date": null,
+  "view_count": null,
+  "playlist_count": 2,
+  "uploader": "Sgss Southall LIVE",
+  "channel_url": "https://www.youtube.com/channel/UCX6GRph5cHvjuwGK85cxMyA",
+  "_type": "playlist",
+  "entries": [
+    {
+      "title": "Southall Smagam Promo 12th\u201315th June 2025",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/NEZfGRnT2RM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmdk2ilt1EgYnLwGdWDBdYFsvjnQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/NEZfGRnT2RM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCobBQk6yf21fh8YWg8FVIz-v-ylA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 67,
+      "view_count": 2600,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "NEZfGRnT2RM",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=NEZfGRnT2RM",
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "title": "\ud83d\udcda Intellectual Sikh Lecture Series | Akal Takhat & Sikh Diaspora | Harinder Singh @SikhRI",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/DrjIzDAg46Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXT25vSs8AN2CsDm1GMAkO7DFhkw",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/DrjIzDAg46Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxZsalFjBjw4a6gjIDUx6PfvbHcg",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "duration": 3715,
+      "view_count": 2900,
+      "timestamp": null,
+      "live_status": null,
+      "availability": null,
+      "channel_url": null,
+      "uploader_url": null,
+      "creators": null,
+      "ie_key": "Youtube",
+      "id": "DrjIzDAg46Y",
+      "_type": "url",
+      "url": "https://www.youtube.com/watch?v=DrjIzDAg46Y",
+      "__x_forwarded_for_ip": null
+    }
+  ],
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/channel/UCX6GRph5cHvjuwGK85cxMyA/videos",
+  "original_url": "https://www.youtube.com/channel/UCX6GRph5cHvjuwGK85cxMyA/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1789460818,
+  "__files_to_move": {},
+  "_version": {
+    "version": "2026.08.19",
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp"
+  }
+}
